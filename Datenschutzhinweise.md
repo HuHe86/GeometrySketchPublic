@@ -9,5 +9,6 @@ Microsoft sammelt statistische Informationen über die App-Nutzung, den Gerätet
 ## 3) Änderungen der Datenschutzrichtlinie
 Da die Datenschutzerklärung von Zeit zu Zeit aktualisiert werden kann, empfiehlt es sich, diese Seite regelmäßig auf Änderungen zu überprüfen. Änderungen treten sofort nach ihrer Veröffentlichung in Kraft.
 
+
 Aktualisiert am 08.03.2021
 
