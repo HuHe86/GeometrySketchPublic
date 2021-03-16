@@ -20,5 +20,7 @@ Sofern Sie Probleme mit der Anwendung haben, wenden Sie Sich an uns unter: geome
 
 ## 6) Änderungen dieser Bedingungen
 Da diese Nutzungsbedingungen von Zeit zu Zeit aktualisiert werden, empfehlen wir Ihnen, diese Seite regelmäßig auf Änderungen zu überprüfen. Änderungen treten sofort nach ihrer Veröffentlichung in Kraft.
----
+
+
 Aktualisiert am 08.03.2021
+---
