@@ -1,6 +1,6 @@
 # Versionshinweise
 ## Version 2.2.0
-- Die Anwendung mit all ihren Funktionen ist ab sofort kostenpflichtig (1-Jahres-Abonnement)
+- die Anwendung mit all ihren Funktionen ist ab sofort kostenpflichtig (1-Jahres-Abonnement)
 - zahlreiche Fehlerbehebungen und Optimierungen
 
 ## Version 2.1.6
@@ -12,7 +12,7 @@
 - Öffnen von Dateien verbessert
 - Drag and Drop von Bildern hinzugefügt
 - Bilder können aus der Zwischenablage eingefügt werden
-- Weitere Bildformate hinzugefügt
+- weitere Bildformate hinzugefügt
 - allgemeine Fehlerbehebungen und optische Anpassungen
 
 ## Version 2.1.3
@@ -52,12 +52,12 @@
 - ein Laserpointer wurde hinzugefügt
 - die Anordnung der Tools wurde verändert
 - das Zoomen wurde verbessert
-- Ein Fehler, der beim Betätigen des Mausrads zum Absturz führte, wurde behoben
+- ein Fehler, der beim Betätigen des Mausrads zum Absturz führte, wurde behoben
 - verschiedene Optimierungen und Fehlerbehebungen
 
 ## Version 1.1.0:
 - ein Punkt-Radierer wurde hinzugefügt
 - die Mauseingabe wurde automatisiert
 - Tooltips wurden hinzugefügt
-- Letzten Strich löschen und wiederherstellen sind nun richtiges Rückgängigmachen bzw. Wiederherstellen
+- letzten Strich löschen und wiederherstellen sind nun richtiges Rückgängigmachen bzw. Wiederherstellen
 - Codeoptimierung wurde fortgesetzt
