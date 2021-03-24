@@ -1,4 +1,8 @@
 # Versionshinweise
+## Version 2.2.0
+- Die Anwendung mit all ihren Funktionen ist ab sofort kostenpflichtig (1-Jahres-Abonnement)
+- zahlreiche Fehlerbehebungen und Optimierungen
+
 ## Version 2.1.6
 - Fehler behoben, der beim Export eines Seitenausschnitts zum Absturz führte
 - Dialoge angepasst
