@@ -6,3 +6,5 @@
 - Bilder können zugeschnitten werden
 - zahlreiche optische Anpassungen
 - Fehlerbehebungen und Codeoptimierungen
+
+*Aktualisiert am 26.03.2021*
