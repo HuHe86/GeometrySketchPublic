@@ -6,5 +6,6 @@
 - Bilder können von Kamera hinzugefügt werden
 - zahlreiche optische Anpassungen
 - Fehlerbehebungen und Codeoptimierungen
+- Einfügen von Standardformen
 
 *Aktualisiert am 26.03.2021*
