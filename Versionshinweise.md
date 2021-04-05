@@ -1,4 +1,12 @@
 # Versionshinweise
+## Version 2.3.0
+- das Drehen von Geodreieck und Bildern per Mausrad oder manueller Eingabe ist bei Halten der Umschalttaste feiner
+- Seitenausschnitt kann in Zwischenablage kopiert werden
+- Bilder können zugeschnitten werden
+- Bilder können von Kamera hinzugefügt werden
+- zahlreiche optische Anpassungen
+- Fehlerbehebungen und Codeoptimierungen
+
 ## Version 2.2.0
 - die Anwendung mit all ihren Funktionen ist ab sofort kostenpflichtig (1-Jahres-Abonnement)
 - zahlreiche Fehlerbehebungen und Optimierungen
