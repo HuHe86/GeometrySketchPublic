@@ -1,5 +1,5 @@
 # Versionshinweise
-## Version 2.3.0
+## Version 2.3.1
 - das Drehen von Geodreieck und Bildern per Mausrad oder manueller Eingabe ist bei Halten der Umschalttaste feiner
 - Seitenausschnitt kann in Zwischenablage kopiert werden
 - Bilder können zugeschnitten werden
