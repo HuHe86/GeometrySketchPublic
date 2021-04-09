@@ -1,4 +1,5 @@
 # Roadmap
+- Zentimetergenaues Drucken bzw. genaue Seitenverhältnisse
 - Einfügen von Standardformen
 - Markieren und Verschieben von Strichen
 
