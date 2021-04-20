@@ -1,4 +1,10 @@
 # Versionshinweise
+## Version 2.3.2
+- zentimetergenaues Drucken bzw. genaue Seitenverhältnisse von A4 und A3
+- Seitengröße kann benutzerdefiniert angepasst bzw. erweitert werden
+- Winkelanzeige beim Zirkel aktiviert
+- zahlreiche optische Anpassungen, Fehlerbehebungen und Optimierungen
+
 ## Version 2.3.1
 - das Drehen von Geodreieck und Bildern per Mausrad oder manueller Eingabe ist bei Halten der Umschalttaste feiner
 - Seitenausschnitt kann in Zwischenablage kopiert werden
