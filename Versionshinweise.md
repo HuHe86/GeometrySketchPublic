@@ -1,5 +1,5 @@
 # Versionshinweise
-## Version 2.3.2
+## Version 2.3.2 und 2.3.3
 - zentimetergenaues Drucken bzw. genaue Seitenverhältnisse von A4 und A3
 - Seitengröße kann benutzerdefiniert angepasst bzw. erweitert werden
 - Winkelanzeige beim Zirkel aktiviert
@@ -76,4 +76,4 @@
 - letzten Strich löschen und wiederherstellen sind nun richtiges Rückgängigmachen bzw. Wiederherstellen
 - Codeoptimierung wurde fortgesetzt
 
-*Aktualisiert am 21.04.2021*
+*Aktualisiert am 22.04.2021*
