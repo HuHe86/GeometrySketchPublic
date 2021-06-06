@@ -1,4 +1,11 @@
 # Versionshinweise
+
+## Version 2.4.0
+- Sicherheitsabfrage beim Löschen aller Freihandstriche
+- Markieren, Kopieren, Löschen und Verschieben von Strichen durch ein neu hinzugefügtes Lassowerkzeug
+- Möglichkeit zum Verändern der Hintergrundfarbe und der Linienfarbe jeder Seite
+- zahlreiche optische Anpassungen und und Codeoptimierungen
+
 ## Version 2.3.2 und 2.3.3
 - zentimetergenaues Drucken bzw. genaue Seitenverhältnisse von A4 und A3
 - Seitengröße kann benutzerdefiniert angepasst bzw. erweitert werden
@@ -76,4 +83,4 @@
 - letzten Strich löschen und wiederherstellen sind nun richtiges Rückgängigmachen bzw. Wiederherstellen
 - Codeoptimierung wurde fortgesetzt
 
-*Aktualisiert am 22.04.2021*
+*Aktualisiert am 06.06.2021*
