@@ -1,5 +1,10 @@
 # Versionshinweise
 
+## Version 2.5.0
+- Optische Anpassungen
+- Stiftfarbe weiß hinzugefügt
+- Codeoptimierungen
+
 ## Version 2.4.0
 - Sicherheitsabfrage beim Löschen aller Freihandstriche
 - Markieren, Kopieren, Löschen und Verschieben von Strichen durch ein neu hinzugefügtes Lassowerkzeug
