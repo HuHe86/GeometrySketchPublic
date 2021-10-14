@@ -1,5 +1,10 @@
 # Versionshinweise
 
+## Version 2.6.0
+- optische Anpassungen
+- alternatives Lizenzmodell hinzugefügt
+- verschiedene Optimierungen
+ 
 ## Version 2.5.0
 - Optische Anpassungen
 - Stiftfarbe weiß hinzugefügt
