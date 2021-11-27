@@ -1,5 +1,9 @@
 # Versionshinweise
 
+## Version 2.7.0
+- optische Anpassungen
+- grundlegende Formen können eingefügt werden
+
 ## Version 2.6.0
 - optische Anpassungen
 - alternatives Lizenzmodell hinzugefügt
