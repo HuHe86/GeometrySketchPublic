@@ -1,5 +1,8 @@
 # Versionshinweise
 
+## Version 2.7.1
+- Aufzeichnung mit GameDVR nun möglich
+
 ## Version 2.7.0
 - optische Anpassungen
 - grundlegende Formen können eingefügt werden
