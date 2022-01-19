@@ -1,5 +1,6 @@
 # Roadmap
 - Farbverwaltung
+- Skalierung Lineal
 - Verwaltung von Favoriten bei den Koordinatensystemen
 - Integration von GeoGebra
 - Integration von Textfeldern
