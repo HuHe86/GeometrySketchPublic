@@ -1,6 +1,7 @@
 # Roadmap
-- Einfügen von Standardformen
+- Farbverwaltung
+- Verwaltung von Favoriten bei den Koordinatensystemen
 - Integration von GeoGebra
 - Integration von Textfeldern
 
-*Aktualisiert am 06.06.2021*
+*Aktualisiert am 19.01.2022*
