@@ -1,7 +1,10 @@
 # Versionshinweise
 
-## Version 2.7.1
-- Aufzeichnung mit GameDVR nun möglich
+## Version 2.8.0
+- Lineal hat nun eine Skalierung
+- Formenmodus erweitert und verbessert
+- Koordinatensystemschnellzugriffe hinzugefügt
+- Konstruktionswerkzeuge können nun mit dem Stift verschoben werden
 
 ## Version 2.7.0
 - optische Anpassungen
