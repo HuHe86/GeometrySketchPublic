@@ -1,4 +1,4 @@
-Schullizenz
+#Schullizenz
 
 ## 1) Bedingungen
 Durch den Erwerb einer Schullizenz erhalten alle Angehörigen der Schulfamilie die Berechtigung die Anwendung vollumfänglich zu nutzen. Dies kann jedoch nur für zuvor, hinsichtlich ihrer Kompatibilität, überprüfte Geräte gelten.
