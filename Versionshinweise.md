@@ -1,5 +1,8 @@
 # Versionshinweise
 
+## Version 2.8.2
+- Möglichkeit der Lizenzierung an Schulen hinzugefügt
+
 ## Version 2.8.1
 - Lineal hat nun eine Skalierung
 - Formenmodus erweitert und verbessert
