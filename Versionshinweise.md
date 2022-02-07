@@ -1,6 +1,6 @@
 # Versionshinweise
 
-## Version 2.8.0
+## Version 2.8.1
 - Lineal hat nun eine Skalierung
 - Formenmodus erweitert und verbessert
 - Koordinatensystemschnellzugriffe hinzugefügt
@@ -103,4 +103,4 @@
 - letzten Strich löschen und wiederherstellen sind nun richtiges Rückgängigmachen bzw. Wiederherstellen
 - Codeoptimierung wurde fortgesetzt
 
-*Aktualisiert am 04.02.2022*
+*Aktualisiert am 07.02.2022*
