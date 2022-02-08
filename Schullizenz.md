@@ -17,5 +17,8 @@ Um eine Schullizenz zu erwerben, müssen Sie eine E-mail an geometrysketch@outlo
 
 Anschließend erhalten Sie eine Rechnung, die per Überweisung, unter Angabe der Rechnungsnummer, zu begleichen ist. Nach Zahlungseingang bekommen Sie per E-Mail eine Lizenzdatei, mit der Sie alle Funktionen der Anwendung auf den berechtigten Geräten freischalten können. Dafür muss die Datei entweder direkt beim Programmstart oder nachträglich im Menüpunkt "Über diese App" geladen werden.
 
+## 3) Kontakt
+Bei weiteren Fragen können Sie Sich gerne an geometrysketch@outlook.de oder telefonisch unter 0176 31716558 melden.
+
 *Aktualisiert am 07.02.2022*
 
