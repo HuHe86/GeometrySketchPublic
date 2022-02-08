@@ -20,7 +20,7 @@ Anschließend erhalten Sie eine Rechnung, die per Überweisung, unter Angabe der
 ## 3) Kontakt
 Bei weiteren Fragen können Sie Sich gerne jederzeit melden.
 - E-Mail-Adresse: geometrysketch@outlook.de 
-- Tel.: 0176 31716558
+- Tel.: +49 176 31716558
 
 *Aktualisiert am 07.02.2022*
 
