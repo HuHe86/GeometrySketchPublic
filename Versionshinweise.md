@@ -1,5 +1,8 @@
 # Versionshinweise
 
+## Version 2.9.0
+- Möglichkeit des Zeichnens mit Fingern hinzugefügt
+
 ## Version 2.8.2
 - Möglichkeit der Lizenzierung an Schulen hinzugefügt
 
