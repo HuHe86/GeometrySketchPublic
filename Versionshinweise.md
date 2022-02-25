@@ -1,5 +1,9 @@
 # Versionshinweise
 
+## Version 2.10.0
+- Fehlerbehebungen beim Zeichnen mit den Fingern
+- Der Export von Ausschnitten kann nun Zentimetergenau erfolgen
+
 ## Version 2.9.0
 - Möglichkeit des Zeichnens mit Fingern hinzugefügt
 
