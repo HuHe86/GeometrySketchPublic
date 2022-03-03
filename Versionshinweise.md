@@ -1,5 +1,8 @@
 # Versionshinweise
 
+## Version 2.11.0
+- Zirkel grafisch an die Wirklichkeit angepasst 
+
 ## Version 2.10.0
 - Fehlerbehebungen beim Zeichnen mit den Fingern
 - Der Export von Ausschnitten kann nun Zentimetergenau erfolgen
@@ -113,4 +116,4 @@
 - letzten Strich löschen und wiederherstellen sind nun richtiges Rückgängigmachen bzw. Wiederherstellen
 - Codeoptimierung wurde fortgesetzt
 
-*Aktualisiert am 19.02.2022*
+*Aktualisiert am 03.03.2022*
