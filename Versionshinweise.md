@@ -1,5 +1,8 @@
 # Versionshinweise
 
+## Version 2.12.1
+- Fehlerbehebungen
+
 ## Version 2.12.0
 - Grafische Verbesserung des Geodreiecks
 - Bei Koordinatensystemen kann nun die Schriftgröße angepasst werden
@@ -120,4 +123,4 @@
 - letzten Strich löschen und wiederherstellen sind nun richtiges Rückgängigmachen bzw. Wiederherstellen
 - Codeoptimierung wurde fortgesetzt
 
-*Aktualisiert am 12.03.2022*
+*Aktualisiert am 01.04.2022*
