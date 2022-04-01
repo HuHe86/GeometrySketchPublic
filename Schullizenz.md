@@ -8,8 +8,6 @@ Der Preis der 1-Jahres-Schullizenz von GeometrySketch hängt von der Gesamtzahl 
 
 Das Abonnement läuft automatisch nach einem Jahr aus und muss nicht separat gekündigt werden.
 
-**Bei Bestellungen bis zum 01.04.2022 erhalten Sie einen Rabatt von 50 €.**
-
 ## 3) Erwerb
 Um eine Schullizenz zu erwerben, müssen Sie eine E-mail an geometrysketch@outlook.de unter Angabe folgender Daten schreiben:
 - E-Mail-Adresse der Schule
@@ -24,5 +22,5 @@ Bei weiteren Fragen können Sie Sich gerne jederzeit melden.
 - E-Mail-Adresse: geometrysketch@outlook.de 
 - Tel.: +49 176 31716558
 
-*Aktualisiert am 30.03.2022*
+*Aktualisiert am 01.04.2022*
 
