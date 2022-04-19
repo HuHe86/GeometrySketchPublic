@@ -1,5 +1,9 @@
 # Versionshinweise
 
+## Version 2.13.0
+- Verbesserungen beim Umgang mit Bildern
+- Verbesserungen bei den Schnellzugriffen von Koordinatensystemen
+
 ## Version 2.12.1
 - Fehlerbehebungen
 
@@ -123,4 +127,4 @@
 - letzten Strich löschen und wiederherstellen sind nun richtiges Rückgängigmachen bzw. Wiederherstellen
 - Codeoptimierung wurde fortgesetzt
 
-*Aktualisiert am 01.04.2022*
+*Aktualisiert am 19.04.2022*
