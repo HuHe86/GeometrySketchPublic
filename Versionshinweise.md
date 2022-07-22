@@ -1,5 +1,9 @@
 # Versionshinweise
 
+## Version 3.0.0
+- Mehrere Seiten werden unterstützt
+- Optische Verbesserungen und Fehlerbehebungen
+
 ## Version 2.13.0
 - Verbesserungen beim Umgang mit Bildern
 - Verbesserungen bei den Schnellzugriffen von Koordinatensystemen
