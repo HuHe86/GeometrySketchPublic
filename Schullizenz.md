@@ -22,8 +22,11 @@ GeometrySketch funktioniert auf allen Geräten mit Windows 10 oder höher (Noteb
 
 ## 5) Kontakt
 Bei weiteren Fragen können Sie Sich gerne jederzeit melden.
+
+Hubert Heinz
 - E-Mail-Adresse: geometrysketch@outlook.de 
 - Tel.: +49 176 31716558
+- Adresse: Anton-Gäck-Straße 5, 85110 Kipfenberg
 
 *Aktualisiert am 03.08.2022*
 
