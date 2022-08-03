@@ -17,7 +17,7 @@ Um eine Schullizenz zu erwerben, müssen Sie eine E-mail an geometrysketch@outlo
 
 Anschließend erhalten Sie eine Rechnung, die per Überweisung, unter Angabe der Rechnungsnummer, zu begleichen ist. Nach Zahlungseingang bekommen Sie per E-Mail eine Lizenzdatei, mit der Sie alle Funktionen der Anwendung auf den berechtigten Geräten freischalten können. Dafür muss die Datei entweder direkt beim Programmstart oder nachträglich im Menüpunkt "Über diese App" geladen werden.
 
-## 5) VORAUSSETZUNGEN: 
+## 5) Voraussetzungen 
 GeometrySketch funktioniert auf allen Geräten mit Windows 10 oder höher (Notebooks, Tablets, PCs), auch auf digitalen Tafeln!
 
 ## 4) Kontakt
