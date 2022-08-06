@@ -1,5 +1,9 @@
 # Versionshinweise
 
+## Version 3.0.1
+- Auzeichung mit der XBox Game Bar möglich
+- Fehlerbehebungen
+
 ## Version 3.0.0
 - Mehrere Seiten werden unterstützt
 - Optische Verbesserungen und Fehlerbehebungen
