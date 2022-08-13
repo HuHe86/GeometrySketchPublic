@@ -1,7 +1,6 @@
 # Versionshinweise
 
-## Version 3.0.1
-- Auzeichung mit der XBox Game Bar möglich
+## Version 3.0.2
 - Fehlerbehebungen
 
 ## Version 3.0.0
@@ -135,4 +134,4 @@
 - letzten Strich löschen und wiederherstellen sind nun richtiges Rückgängigmachen bzw. Wiederherstellen
 - Codeoptimierung wurde fortgesetzt
 
-*Aktualisiert am 06.08.2022*
+*Aktualisiert am 13.08.2022*
