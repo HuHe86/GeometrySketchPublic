@@ -1,6 +1,6 @@
 # Versionshinweise
 
-## Version 3.0.2 bzw. Version 3.0.3
+## Version 3.0.2 und Version 3.0.3
 - Verbesserungen beim Export und Druck von Seiten
 - Fehlerbehebungen
 
