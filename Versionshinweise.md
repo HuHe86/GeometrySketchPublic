@@ -1,6 +1,6 @@
 # Versionshinweise
 
-## Version 3.0.4
+## Version 3.0.4 und 3.0.5
 - Verbesserungen beim Speichern
 - Verbesserungen beim Vollbildmodus
 - Verbesserungen beim Umgang mit Bildern
@@ -141,4 +141,4 @@
 - letzten Strich löschen und wiederherstellen sind nun richtiges Rückgängigmachen bzw. Wiederherstellen
 - Codeoptimierung wurde fortgesetzt
 
-*Aktualisiert am 19.09.2022*
+*Aktualisiert am 11.11.2022*
