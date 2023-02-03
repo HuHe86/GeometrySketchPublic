@@ -1,5 +1,12 @@
 # Versionshinweise
 
+## Version 3.1.0
+- Ein Fehler wurde behoben, der unter Windows 11 zu Problemen beim Speichern auf OneDrive führte
+- Textfelder können eingefügt und bearbeitet werden
+- Das Handling im Zusammenhang mit Seitenelementen (Koordinatenystemen, Bildern, Textfeldern) wurde vollständig überarbeitet
+- Bei den Koordinatensystem-Favoriten zeigt ein Tooltip die grundlegenden Daten an
+- Seiten können komplett kopiert und an einer beliebigen Stelle eingefügt werden
+
 ## Version 3.0.4 und 3.0.5
 - Verbesserungen beim Speichern
 - Verbesserungen beim Vollbildmodus
@@ -141,4 +148,4 @@
 - letzten Strich löschen und wiederherstellen sind nun richtiges Rückgängigmachen bzw. Wiederherstellen
 - Codeoptimierung wurde fortgesetzt
 
-*Aktualisiert am 11.11.2022*
+*Aktualisiert am 03.02.2023*
