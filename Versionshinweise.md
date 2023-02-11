@@ -1,7 +1,8 @@
 # Versionshinweise
 
-## Version 3.1.1
+## Version 3.1.1 und 3.1.2
 - Ein schwerwiegender Fehler, der unter bestimmten Umständen Dateien beim Überspeichern unbrauchbar macht, wurde behoben
+- Weitere Fehlerbehebungen
 
 ## Version 3.1.0
 - Ein Fehler wurde behoben, der unter Windows 11 zu Problemen beim Speichern auf OneDrive führte
@@ -151,4 +152,4 @@
 - letzten Strich löschen und wiederherstellen sind nun richtiges Rückgängigmachen bzw. Wiederherstellen
 - Codeoptimierung wurde fortgesetzt
 
-*Aktualisiert am 10.02.2023*
+*Aktualisiert am 11.02.2023*
