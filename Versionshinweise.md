@@ -1,6 +1,6 @@
 # Versionshinweise
 
-## Version 3.1.1 und 3.1.2
+## Version 3.1.1, 3.1.2, 3.1.3
 - Ein schwerwiegender Fehler, der unter bestimmten Umständen Dateien beim Überspeichern unbrauchbar macht, wurde behoben
 - Weitere Fehlerbehebungen
 
@@ -152,4 +152,4 @@
 - letzten Strich löschen und wiederherstellen sind nun richtiges Rückgängigmachen bzw. Wiederherstellen
 - Codeoptimierung wurde fortgesetzt
 
-*Aktualisiert am 11.02.2023*
+*Aktualisiert am 14.02.2023*
