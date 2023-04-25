@@ -2,7 +2,8 @@
 
 ## Version 3.2.0
 - Das Exportieren und Drucken von Seiten wurde komplett überarbeitet
-- Es können PDF-Dateien als Bilder eingefügt werden
+- Die Seiten können direkt als PDF-Datei exportiert werden
+- Es können PDF-Dateien importiert werden
 - Neue Papierstile sind verfügbar (Millimeterpapier, Punktpapier)
 
 ## Version 3.1.1 bis 3.1.4
@@ -157,4 +158,4 @@
 - letzten Strich löschen und wiederherstellen sind nun richtiges Rückgängigmachen bzw. Wiederherstellen
 - Codeoptimierung wurde fortgesetzt
 
-*Aktualisiert am 17.02.2023*
+*Aktualisiert am 25.04.2023*
