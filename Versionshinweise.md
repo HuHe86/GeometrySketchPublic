@@ -3,7 +3,7 @@
 ## Version 3.2.0
 - Das Exportieren und Drucken von Seiten wurde komplett überarbeitet
 - Die Seiten können direkt als PDF-Datei exportiert werden
-- Es können PDF-Dateien importiert werden
+- PDF-Dateien können importiert werden
 - Neue Papierstile sind verfügbar (Millimeterpapier, Punktpapier)
 
 ## Version 3.1.1 bis 3.1.4
