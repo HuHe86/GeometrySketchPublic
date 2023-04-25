@@ -1,5 +1,10 @@
 # Versionshinweise
 
+## Version 3.2.0
+- Das Exportieren und Drucken von Seiten wurde komplett überarbeitet
+- Es können PDF-Dateien als Bilder eingefügt werden
+- Neue Papierstile sind verfügbar (Millimeterpapier, Punktpapier)
+
 ## Version 3.1.1 bis 3.1.4
 - Ein schwerwiegender Fehler, der unter bestimmten Umständen Dateien beim Überspeichern unbrauchbar macht, wurde behoben
 - Weitere Fehlerbehebungen
