@@ -1,10 +1,11 @@
 # Versionshinweise
 
-## Version 3.2.0
+## Version 3.2.0 und 3.2.1
 - Das Exportieren und Drucken von Seiten wurde komplett überarbeitet
 - Die Seiten können direkt als PDF-Datei exportiert werden
-- PDF-Dateien können importiert werden
-- Neue Papierstile sind verfügbar (Millimeterpapier, Punktpapier)
+- PDF-Dateien können importiert werden (3.2.1: Fehler behoben)
+- Neue Papierstile sind verfügbar (Millimeterpapier, Punktpapier, 3.2.1: Isomteriepapier)
+- 3.2.1: Ein Fehler, der zur Verdoppelung von Seitenelementen führte, wurde behoben
 
 ## Version 3.1.1 bis 3.1.4
 - Ein schwerwiegender Fehler, der unter bestimmten Umständen Dateien beim Überspeichern unbrauchbar macht, wurde behoben
@@ -158,4 +159,4 @@
 - letzten Strich löschen und wiederherstellen sind nun richtiges Rückgängigmachen bzw. Wiederherstellen
 - Codeoptimierung wurde fortgesetzt
 
-*Aktualisiert am 25.04.2023*
+*Aktualisiert am 11.05.2023*
