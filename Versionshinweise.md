@@ -1,5 +1,10 @@
 # Versionshinweise
 
+## Version 3.3.0
+- Ein neues Tool ermöglicht das horizontale oder vertikale Einfügen von Schreibbereichen
+- Die Tastenkombinationen wurden komplett überarbeitet
+- Das Lassotool ermöglicht das Verändern von Strichfarbe und Strichstärke
+
 ## Version 3.2.0 und 3.2.1
 - Das Exportieren und Drucken von Seiten wurde komplett überarbeitet
 - Die Seiten können direkt als PDF-Datei exportiert werden
@@ -159,4 +164,4 @@
 - letzten Strich löschen und wiederherstellen sind nun richtiges Rückgängigmachen bzw. Wiederherstellen
 - Codeoptimierung wurde fortgesetzt
 
-*Aktualisiert am 11.05.2023*
+*Aktualisiert am 13.06.2023*
