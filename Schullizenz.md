@@ -1,7 +1,7 @@
 # 1-Jahres-Schullizenz von GeometrySketch
 
 ## 1) Bedingungen
-Durch den Erwerb einer 1-Jahres-Schullizenz erhalten alle Angehörigen der Schulfamilie die Berechtigung, die Anwendung vollumfänglich bis zum Ablauf des Abonnements zu nutzen. Dies kann jedoch nur für Geräte gelten, deren Kompatibilität **Sie** zuvor überprüft haben. Die Anwendung sowie deren Aktualisierungen müssen dabei grundsätzlich aus dem Microsoft-Store bezogen werden (https://www.microsoft.com/store/apps/9NKTD2J3H6N4). 
+Durch den Erwerb einer 1-Jahres-Schullizenz erhalten alle Angehörigen der Schulfamilie (Schüler und Lehrer) die Berechtigung, die Anwendung vollumfänglich bis zum Ablauf des Abonnements zu nutzen. Dies kann jedoch nur für Geräte gelten, deren Kompatibilität **Sie** zuvor überprüft haben. Die Anwendung sowie deren Aktualisierungen müssen dabei grundsätzlich aus dem Microsoft-Store bezogen werden (https://www.microsoft.com/store/apps/9NKTD2J3H6N4). 
 
 ## 2) Preise
 Der Preis der 1-Jahres-Schullizenz von GeometrySketch hängt von der Gesamtzahl der Schülerinnen und Schüler - nicht von der Zahl der tatsächlichen Nutzer - der Schule ab. Bei weniger als 500 Schülerinnen und Schülern kostet die Lizenz 150,00 € pro Jahr, ansonsten 200,00 €. 
@@ -28,5 +28,5 @@ Hubert Heinz
 - Tel.: +49 176 31716558
 - Adresse: Anton-Gäck-Straße 5, 85110 Kipfenberg
 
-*Aktualisiert am 03.08.2022*
+*Aktualisiert am 16.06.2023*
 
