@@ -21,4 +21,4 @@ If you have any problems with the application, please contact us at: geometryske
 ## 6) Changes to these Terms
 As these Terms of Use are updated from time to time, we encourage you to check this page periodically for any changes. Amendments shall take effect immediately upon their publication.
 
-*Updated on 08/03/2021*
+*Updated on 02/08/2023*
