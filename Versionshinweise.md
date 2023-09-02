@@ -2,7 +2,7 @@
 
 ## Version 3.5.0
 - Ein neues Tool ermöglicht das direkte Drehen des Geodreiecks durch Ein-Punkt-Eingabe im Geodreieck
-- 
+
 ## Version 3.4.1 bis 3.3.0
 - Ein neues Tool ermöglicht das horizontale oder vertikale Einfügen von Schreibbereichen
 - Die Tastenkombinationen wurden komplett überarbeitet
