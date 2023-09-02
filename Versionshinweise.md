@@ -1,6 +1,9 @@
 # Versionshinweise
 
-## Version 3.3.0
+## Version 3.5.0
+- Ein neues Tool ermöglicht das direkte Drehen des Geodreiecks durch Ein-Punkt-Eingabe im Geodreieck
+- 
+## Version 3.4.1 bis 3.3.0
 - Ein neues Tool ermöglicht das horizontale oder vertikale Einfügen von Schreibbereichen
 - Die Tastenkombinationen wurden komplett überarbeitet
 - Das Lassotool ermöglicht das Verändern von Strichfarbe und Strichstärke
@@ -164,4 +167,4 @@
 - letzten Strich löschen und wiederherstellen sind nun richtiges Rückgängigmachen bzw. Wiederherstellen
 - Codeoptimierung wurde fortgesetzt
 
-*Aktualisiert am 13.06.2023*
+*Aktualisiert am 03.09.2023*
