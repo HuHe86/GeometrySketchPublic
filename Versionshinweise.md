@@ -7,6 +7,7 @@
 - Ein neues Tool ermöglicht das horizontale oder vertikale Einfügen von Schreibbereichen
 - Die Tastenkombinationen wurden komplett überarbeitet
 - Das Lassotool ermöglicht das Verändern von Strichfarbe und Strichstärke
+- Die App wurde ins Englische übersetzt
 
 ## Version 3.2.0 und 3.2.1
 - Das Exportieren und Drucken von Seiten wurde komplett überarbeitet
