@@ -2,7 +2,7 @@
 
 ## Version 3.6.0
 - Ein neues Tool ermöglicht nun auch das direkte Verändern des Zirkels per Ein-Punkt-Eingabe
-- Seiten können ab sofort zur besseren Orientierung benannt werden
+- Seiten können zur besseren Orientierung ab sofort durch Doppelklick auf den Tab oder über das Kontextmenü benannt werden
 
 ## Version 3.5.0 und 3.5.1
 - Ein neues Tool ermöglicht das direkte Drehen des Geodreiecks durch Ein-Punkt-Eingabe im Geodreieck
