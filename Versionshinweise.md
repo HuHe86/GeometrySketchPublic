@@ -1,5 +1,9 @@
 # Versionshinweise
 
+## Version 3.6.0
+- Ein neues Tool ermöglicht nun auch das direkte Verändern des Zirkels per Ein-Punkt-Eingabe
+- Seiten können ab sofort zur besseren Orientierung benannt werden
+
 ## Version 3.5.0 und 3.5.1
 - Ein neues Tool ermöglicht das direkte Drehen des Geodreiecks durch Ein-Punkt-Eingabe im Geodreieck
 - Fehlerbehebungen
@@ -169,4 +173,4 @@
 - letzten Strich löschen und wiederherstellen sind nun richtiges Rückgängigmachen bzw. Wiederherstellen
 - Codeoptimierung wurde fortgesetzt
 
-*Aktualisiert am 03.09.2023*
+*Aktualisiert am 26.10.2023*
