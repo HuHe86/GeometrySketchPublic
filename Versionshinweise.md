@@ -1,5 +1,8 @@
 # Versionshinweise
 
+## Version 3.6.1
+- Das Linientool kann durch wiederholtes Klicken festgestellt werden
+
 ## Version 3.6.0
 - Ein neues Tool ermöglicht nun auch das direkte Verändern des Zirkels per Ein-Punkt-Eingabe
 - Seiten können zur besseren Orientierung ab sofort durch Doppelklick auf den Tab oder über das Kontextmenü benannt werden
@@ -173,4 +176,4 @@
 - letzten Strich löschen und wiederherstellen sind nun richtiges Rückgängigmachen bzw. Wiederherstellen
 - Codeoptimierung wurde fortgesetzt
 
-*Aktualisiert am 26.10.2023*
+*Aktualisiert am 02.11.2023*
