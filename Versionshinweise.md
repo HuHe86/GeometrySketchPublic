@@ -1,7 +1,8 @@
 # Versionshinweise
 
-## Version 3.6.1
+## Version 3.6.1 und 3.6.2
 - Das Linientool kann durch wiederholtes Klicken festgestellt werden
+- Fehlerbehebungen
 
 ## Version 3.6.0
 - Ein neues Tool ermöglicht nun auch das direkte Verändern des Zirkels per Ein-Punkt-Eingabe
@@ -176,4 +177,4 @@
 - letzten Strich löschen und wiederherstellen sind nun richtiges Rückgängigmachen bzw. Wiederherstellen
 - Codeoptimierung wurde fortgesetzt
 
-*Aktualisiert am 02.11.2023*
+*Aktualisiert am 07.11.2023*
