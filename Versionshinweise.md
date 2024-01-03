@@ -1,5 +1,10 @@
 # Versionshinweise
 
+## Version 3.7.0
+- Mit einem neuen Button am Zirkel kann dieser schneller am Raster ausgerichtet werden 
+- Stiftfarben können hinzugefügt, verändert, verschoben oder gelöscht werden
+- Als neuer Papierstil steht dimetrisches Papier zur Verfügung
+
 ## Version 3.6.1 und 3.6.2
 - Das Linientool kann durch wiederholtes Klicken festgestellt werden
 - Fehlerbehebungen
