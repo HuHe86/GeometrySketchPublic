@@ -1,6 +1,6 @@
 # Versionshinweise
 
-## Version 3.7.0
+## Version 3.7.0 und 3.7.1
 - Mit einem neuen Button am Zirkel kann dieser schneller am Raster ausgerichtet werden 
 - Stiftfarben können hinzugefügt, verändert, verschoben oder gelöscht werden
 - Als neuer Papierstil steht dimetrisches Papier zur Verfügung
