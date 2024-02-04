@@ -2,7 +2,7 @@
 
 ## Version 3.8.0
 - Die Linienarten der Linienwerkzeuge können verändert werden
-- Der Umgang mit PDF-Dokumenten, das Drucken und das Speichern wurde verbessert
+- Der Umgang mit PDF-Dokumenten, das Drucken und das Speichern wurden verbessert
 - Das Tool zum Einfügen von Schreibbereichen wurde verbessert
 
 ## Version 3.7.0 und 3.7.1
