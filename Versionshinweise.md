@@ -1,5 +1,10 @@
 # Versionshinweise
 
+## Version 3.8.0
+- Die Linienarten der Linienwerkzeuge können verändert werden
+- Der Umgang mit PDF-Dokumenten, das Drucken und das Speichern wurde verbessert
+- Das Tool zum Einfügen von Schreibbereichen wurde verbessert
+
 ## Version 3.7.0 und 3.7.1
 - Mit einem neuen Button am Zirkel kann dieser schneller am Raster ausgerichtet werden 
 - Stiftfarben können hinzugefügt, verändert, verschoben oder gelöscht werden
@@ -182,4 +187,4 @@
 - letzten Strich löschen und wiederherstellen sind nun richtiges Rückgängigmachen bzw. Wiederherstellen
 - Codeoptimierung wurde fortgesetzt
 
-*Aktualisiert am 03.01.2024*
+*Aktualisiert am 04.02.2024*
