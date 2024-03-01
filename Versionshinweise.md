@@ -1,5 +1,8 @@
 # Versionshinweise
 
+## Version 3.8.1
+- Die Linienarten der Linienwerkzeuge wurden überarbeitet
+
 ## Version 3.8.0
 - Die Linienarten der Linienwerkzeuge können verändert werden
 - Der Umgang mit PDF-Dokumenten, das Drucken und das Speichern wurden verbessert
@@ -187,4 +190,4 @@
 - letzten Strich löschen und wiederherstellen sind nun richtiges Rückgängigmachen bzw. Wiederherstellen
 - Codeoptimierung wurde fortgesetzt
 
-*Aktualisiert am 04.02.2024*
+*Aktualisiert am 01.03.2024*
