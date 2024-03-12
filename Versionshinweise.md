@@ -1,7 +1,8 @@
 # Versionshinweise
 
-## Version 3.8.1
+## Version 3.8.1 und 3.8.2
 - Die Linienarten der Linienwerkzeuge wurden überarbeitet
+- Kleine Verbesserungen
 
 ## Version 3.8.0
 - Die Linienarten der Linienwerkzeuge können verändert werden
@@ -190,4 +191,4 @@
 - letzten Strich löschen und wiederherstellen sind nun richtiges Rückgängigmachen bzw. Wiederherstellen
 - Codeoptimierung wurde fortgesetzt
 
-*Aktualisiert am 01.03.2024*
+*Aktualisiert am 12.03.2024*
