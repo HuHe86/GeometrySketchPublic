@@ -1,5 +1,11 @@
 # Versionshinweise
 
+## Version 3.9.0
+- Koordinatensysteme können standardmäßig am Raster ausgerichtet werden.
+- Seitenelemente können mit der Entf-Taste gelöscht und per Einpunkteingabe, mit den Fingern oder dem Mausrad gedreht werden.
+- Durch Doppelklick auf ein Seitenelement gelangt man zu wichtigen Funktionen.
+- Zahlreiche Verbesserungen und Fehlerbehebungen.
+
 ## Version 3.8.1 und 3.8.2
 - Die Linienarten der Linienwerkzeuge wurden überarbeitet
 - Kleine Verbesserungen
