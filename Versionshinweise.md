@@ -1,5 +1,10 @@
 # Versionshinweise
 
+## Version 3.9.1
+- In den Einstellungen kann der Standard-Papierstil für neue Seiten gewählt werden.
+- In den Einstellungen kann für den Export einer Seite über die Zwischenablage zwischen .pdf oder .png gewählt werden.
+- Zahlreiche Verbesserungen, Modernisierungen und Fehlerbehebungen.
+
 ## Version 3.9.0
 - Koordinatensysteme können standardmäßig am Raster ausgerichtet werden.
 - Seitenelemente können mit der Entf-Taste gelöscht und per Einpunkteingabe, mit den Fingern oder dem Mausrad gedreht werden.
