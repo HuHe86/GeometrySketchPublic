@@ -1,5 +1,11 @@
 # Versionshinweise
 
+## Version 3.10.0
+- Es wurden neue Konstruktionswerkzeuge hinzugefügt (Parabel und größeres Geodreieck).
+- Der Zirkel wurde komplett überarbeitet, wodurch ein kleinere und größere Radius möglich ist.
+- Die Drehwinkel von Kosntruktionswerkzeugen werden angezeigt.
+- Ein Fehler beim Speichern wurde beseitigt.
+
 ## Version 3.9.1
 - In den Einstellungen kann der Standard-Papierstil für neue Seiten gewählt werden.
 - In den Einstellungen kann für den Export einer Seite über die Zwischenablage zwischen .pdf oder .png gewählt werden.
@@ -202,4 +208,4 @@
 - letzten Strich löschen und wiederherstellen sind nun richtiges Rückgängigmachen bzw. Wiederherstellen
 - Codeoptimierung wurde fortgesetzt
 
-*Aktualisiert am 25.10.2024*
+*Aktualisiert am 26.02.2025*
