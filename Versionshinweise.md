@@ -2,7 +2,7 @@
 
 ## Version 3.10.0
 - Es wurden neue Konstruktionswerkzeuge hinzugefügt (Parabel und größeres Geodreieck).
-- Der Zirkel wurde komplett überarbeitet, wodurch ein kleinere und größere Radius möglich ist.
+- Der Zirkel wurde komplett überarbeitet, wodurch ein kleinerer und größerer Radius möglich ist.
 - Die Drehwinkel von Kosntruktionswerkzeugen werden angezeigt.
 - Ein Fehler beim Speichern wurde beseitigt.
 
