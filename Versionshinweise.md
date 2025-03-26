@@ -1,5 +1,8 @@
 # Versionshinweise
 
+## Version 3.10.1
+- Ein Fehler, der in Windows 11 dazu führte, dass der Zirkel nicht richtig funktionierte, wurde behoben.
+
 ## Version 3.10.0
 - Es wurden neue Konstruktionswerkzeuge hinzugefügt (Parabel und größeres Geodreieck).
 - Der Zirkel wurde komplett überarbeitet, wodurch ein kleinerer und größerer Radius möglich ist.
@@ -208,4 +211,4 @@
 - letzten Strich löschen und wiederherstellen sind nun richtiges Rückgängigmachen bzw. Wiederherstellen
 - Codeoptimierung wurde fortgesetzt
 
-*Aktualisiert am 26.02.2025*
+*Aktualisiert am 26.03.2025*
