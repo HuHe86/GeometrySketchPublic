@@ -1,5 +1,9 @@
 # Versionshinweise
 
+## Version 3.11.0
+- Die Position der Werkzeugleiste kann verändert werden.
+- Allgemeine Fehlerbehebungen.
+
 ## Version 3.10.1
 - Ein Fehler, der in Windows 11 dazu führte, dass der Zirkel nicht richtig funktionierte, wurde behoben.
 
@@ -211,4 +215,4 @@
 - letzten Strich löschen und wiederherstellen sind nun richtiges Rückgängigmachen bzw. Wiederherstellen
 - Codeoptimierung wurde fortgesetzt
 
-*Aktualisiert am 26.03.2025*
+*Aktualisiert am 06.06.2025*
