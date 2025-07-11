@@ -1,5 +1,10 @@
 # Versionshinweise
 
+## Version 3.12.0
+- Die Titelleiste zeigt den aktuellen Dateinamen an.
+- Ausgewählte Striche können skaliert werden.
+- Rückgängig und Wiederherstellen wurde nach oben verschoben.
+
 ## Version 3.11.0
 - Die Position der Werkzeugleiste kann verändert werden.
 - Allgemeine Fehlerbehebungen.
