@@ -1,5 +1,11 @@
 # Versionshinweise
 
+## Version 3.13.0
+- Die Geodreiecke können am Raster ausgerichtet werden.
+- Verbesserungen beim Kopieren und Einfügen von Seitenelementen.
+- Ein Mechanismus zur Notfallsicherung wurde hinzugefügt.
+- Verschiedene andere Fehlerbehebungen und Verbesserungen.
+
 ## Version 3.12.0
 - Die Titelleiste zeigt den aktuellen Dateinamen an.
 - Ausgewählte Striche können skaliert werden.
@@ -220,4 +226,4 @@
 - letzten Strich löschen und wiederherstellen sind nun richtiges Rückgängigmachen bzw. Wiederherstellen
 - Codeoptimierung wurde fortgesetzt
 
-*Aktualisiert am 11.07.2025*
+*Aktualisiert am 15.12.2025*
