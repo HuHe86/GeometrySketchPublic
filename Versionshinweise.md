@@ -1,4 +1,9 @@
 # Versionshinweise
+## Version 3.14.0
+- Neuer Papiertyp "Lineatur" (liniertes Papier) hinzugefügt mit anpassbarem Zeilenabstand.
+- Verbesserte Raster-Ausrichtung: Konstruktionswerkzeuge (Zirkel, Parabel) berücksichtigen jetzt den gewählten Papiertyp.
+- Allgemeine Codeverbesserungen für stabilere Performance und bessere Wartbarkeit
+- Verschiedene Fehlerbehebungen und kleinere Optimierungen.
 
 ## Version 3.13.0
 - Die Geodreiecke können am Raster ausgerichtet werden.
