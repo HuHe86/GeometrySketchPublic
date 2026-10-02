@@ -1,5 +1,5 @@
 # Versionshinweise
-## Version 0.0.2
+## Version 0.0.2 und 0.0.3
 - Zahlreiche Verbesserungen und Anpassungen aus dem Feedback zur Preview
 
 ## Version 0.0.1-preview
