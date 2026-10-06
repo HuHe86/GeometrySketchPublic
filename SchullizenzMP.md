@@ -1,5 +1,7 @@
 # 1-Jahres-Schullizenz von GeometrySketch
 
+*Aktualisiert am 06.10.2026*
+
 ## 1) Bedingungen
 Durch den Erwerb einer 1-Jahres-Schullizenz erhalten alle Angehörigen der Schulfamilie - Schüler und Lehrer - die Berechtigung, die Anwendung vollumfänglich bis zum Ablauf des Abonnements zu nutzen. Dies kann jedoch nur für Geräte gelten, deren Kompatibilität **Sie** zuvor überprüft haben. Die Anwendung sowie deren Aktualisierungen müssen dabei grundsätzlich aus dem den entsprechenden Stores geladen werden. 
 
@@ -24,5 +26,3 @@ Hubert Heinz
 - E-Mail-Adresse: geometrysketch@outlook.de 
 - Tel.: +49 176 31716558
 - Adresse: Anton-Gäck-Straße 5, 85110 Kipfenberg
-
-*Aktualisiert am 13.08.2026*
