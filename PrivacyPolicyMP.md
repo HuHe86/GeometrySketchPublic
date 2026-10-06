@@ -1,6 +1,6 @@
 # Privacy Policy – GeometrySketch
 
-*Updated on 06/10/2026*
+*Updated on 10/06/2026*
 
 This Privacy Policy explains how GeometrySketch handles data. GeometrySketch is designed to operate **without collecting personal data** on its own servers.
 
