@@ -1,4 +1,7 @@
 # Versionshinweise
+## Version 0.0.4
+- Englisch als UI-Sprache zugefügt
+
 ## Version 0.0.2 und 0.0.3
 - Zahlreiche Verbesserungen und Anpassungen aus dem Feedback zur Preview
 
