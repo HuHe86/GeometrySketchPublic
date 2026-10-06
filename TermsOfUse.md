@@ -1,6 +1,6 @@
 # Terms of Use
 
-*Updated on 06/10/2026*
+*Updated on 10/06/2026*
 
 ## 1) Acceptance of the Terms of Use
 By using the App (hereinafter: Application), you agree to be bound by these Terms of Use.
