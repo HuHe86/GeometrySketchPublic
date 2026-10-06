@@ -9,4 +9,4 @@
 - Das ist die erste Version der App GeometrySketch, die auf allen gängigen Plattformen verfügbar ist. Der Funktionsumfang ist der App zu entnehmen.
 
 
-*Aktualisiert am 30.09.2026*
+*Aktualisiert am 06.10.2026*
