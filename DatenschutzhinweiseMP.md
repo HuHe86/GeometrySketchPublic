@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Stand: 10.08.2026
+*Aktualisiert am 06.10.2026*
 
 Diese Datenschutzhinweise gelten für die App GeometrySketch.
 
