@@ -1,5 +1,7 @@
 # Terms of Use
 
+*Updated on 06/10/2026*
+
 ## 1) Acceptance of the Terms of Use
 By using the App (hereinafter: Application), you agree to be bound by these Terms of Use.
 
@@ -20,5 +22,3 @@ If you have any problems with the application, please contact us at: geometryske
 
 ## 6) Changes to these Terms
 As these Terms of Use are updated from time to time, we encourage you to check this page periodically for any changes. Amendments shall take effect immediately upon their publication.
-
-*Updated on 02/08/2023*
