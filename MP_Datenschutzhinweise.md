@@ -15,6 +15,7 @@ Anton-Gäck-Straße 5
 
 Deutschland
 
+
 **E-Mail:** geometrysketch@outlook.de
 
 Für die eigenständige Datenverarbeitung der jeweiligen App-Stores, Zahlungsdienste und von dir ausgewählten externen Dienste sind deren Betreiber verantwortlich.
