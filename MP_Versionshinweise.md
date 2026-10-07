@@ -1,12 +1,12 @@
-# Release Notes
+# Versionshinweise
 
-*Updated on 10/06/2026*
+*Aktualisiert am 06.10.2026*
 
 ## Version 0.0.4
-- Added English as a UI language
+- Englisch als Sprache für die Benutzeroberfläche hinzugefügt
 
-## Version 0.0.2 and 0.0.3
-- Numerous improvements and adjustments based on preview feedback
+## Version 0.0.2 und 0.0.3
+- Zahlreiche Verbesserungen und Anpassungen auf Grundlage der Rückmeldungen zur Vorschauversion
 
 ## Version 0.0.1-preview
-- This is the first version of the GeometrySketch app, available on all common platforms. The features can be seen in the app.
+- Erste Version der App GeometrySketch, verfügbar auf allen gängigen Plattformen. Die Funktionen können direkt in der App erkundet werden.
