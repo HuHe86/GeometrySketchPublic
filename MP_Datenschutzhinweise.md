@@ -24,26 +24,26 @@ GeometrySketch ist eine Zeichen- und Geometrie-App. Zeichnungen, Dokumente und E
 GeometrySketch benötigt kein eigenes Benutzerkonto beim App-Anbieter. Die App übermittelt Zeichnungen und Dokumente nicht automatisch an eigene Server des Anbieters. Es gibt keinen eigenen serverseitigen Dienst zur Synchronisierung dieser Inhalte oder zur Prüfung von Store-Käufen.
 Die App enthält keine eigenen Werbe-, Tracking- oder Analysefunktionen zur Übermittlung deines Nutzungsverhaltens an den Anbieter.
 Davon zu unterscheiden sind:
-•	die Kommunikation mit dem jeweiligen Store zur Abwicklung von Käufen und zur Prüfung von Berechtigungen;
-•	von dir ausgewählte Speicher-, Backup- und Cloud-Dienste;
-•	von dir veranlasste Exporte, Freigaben und Supportanfragen;
-•	die eigenständige Verarbeitung durch Betriebssystem- und Store-Anbieter.
+-	die Kommunikation mit dem jeweiligen Store zur Abwicklung von Käufen und zur Prüfung von Berechtigungen;
+-	von dir ausgewählte Speicher-, Backup- und Cloud-Dienste;
+-	von dir veranlasste Exporte, Freigaben und Supportanfragen;
+-	die eigenständige Verarbeitung durch Betriebssystem- und Store-Anbieter.
 
 # 3) Lokal gespeicherte Daten
 Abhängig von deiner Nutzung speichert oder verarbeitet die App insbesondere:
-•	Zeichnungen, Dokumente und darin enthaltene Texte oder Bilder;
-•	App-Einstellungen, beispielsweise Sprache und Darstellungsoptionen;
-•	Angaben zu ausgewählten Dateien und Speicherorten;
-•	erzeugte Exportdateien, beispielsweise PDF- und Bilddateien;
-•	Kauf- und Lizenzinformationen zur Freischaltung kostenpflichtiger Funktionen.
+-	Zeichnungen, Dokumente und darin enthaltene Texte oder Bilder;
+-	App-Einstellungen, beispielsweise Sprache und Darstellungsoptionen;
+-	Angaben zu ausgewählten Dateien und Speicherorten;
+-	erzeugte Exportdateien, beispielsweise PDF- und Bilddateien;
+-	Kauf- und Lizenzinformationen zur Freischaltung kostenpflichtiger Funktionen.
 Dokumente können personenbezogene Daten enthalten, wenn du solche Inhalte eingibst oder importierst. Die App verarbeitet diese Inhalte zur Bereitstellung der von dir verwendeten Funktionen.
 Als Kauf- und Lizenzinformationen können lokal gespeichert werden:
-•	der verwendete Store;
-•	der Aktivitätsstatus eines Abonnements;
-•	die Produktkennung;
-•	eine Kauf- oder Transaktionskennung, sofern vom Store bereitgestellt;
-•	ein Ablaufdatum, sofern verfügbar;
-•	der Zeitpunkt der letzten Statusprüfung.
+-	der verwendete Store;
+-	der Aktivitätsstatus eines Abonnements;
+-	die Produktkennung;
+-	eine Kauf- oder Transaktionskennung, sofern vom Store bereitgestellt;
+-	ein Ablaufdatum, sofern verfügbar;
+-	der Zeitpunkt der letzten Statusprüfung.
 Wenn du eine Schullizenz importierst, wird deren Inhalt ebenfalls lokal in den App-Einstellungen gespeichert. Die Lizenzdatei kann unter anderem einen Namen, eine E-Mail-Adresse, ein Ablaufdatum und eine digitale Signatur enthalten.
 Die lokale Verarbeitung dient dem Betrieb der App und der Bereitstellung beziehungsweise Freischaltung ihrer Funktionen. Soweit personenbezogene Daten zur Erfüllung des Nutzungsvertrags erforderlich sind, ist die Rechtsgrundlage Art. 6 Abs. 1 Buchst. b DSGVO.
 
@@ -55,28 +55,28 @@ Für die weitere Verarbeitung gelten die Datenschutzhinweise der betreffenden An
 
 # 5) In-App-Käufe und Abonnements
 Kostenpflichtige Funktionen können, abhängig von Plattform und Verfügbarkeit, über den jeweiligen Store erworben oder abonniert werden:
-•	Google Play auf Android;
-•	Apple App Store auf iOS und macOS;
-•	Microsoft Store auf Windows.
+-	Google Play auf Android;
+-	Apple App Store auf iOS und macOS;
+-	Microsoft Store auf Windows.
 Die App verwendet dafür die Kauf- und Lizenzschnittstellen des jeweiligen Plattformanbieters. Diese werden auch verwendet, um Käufe wiederherzustellen und bestehende Berechtigungen zu prüfen. Eine Statusprüfung kann beim Start der App oder bei einer von dir ausgelösten Aktualisierung erfolgen – nicht nur beim Abschluss eines neuen Kaufs.
 Dabei können der jeweilige Store und dessen Zahlungsdienstleister insbesondere Konto-, Kauf-, Zahlungs-, Geräte- und technische Verbindungsdaten verarbeiten. Welche Daten im Einzelnen verarbeitet werden, richtet sich nach dem jeweiligen Store und den dort verwendeten Diensten.
 GeometrySketch erhält die zur Freischaltung erforderlichen Kauf- und Lizenzinformationen. Zahlungsdaten wie vollständige Kreditkartennummern oder Zugangsdaten deines Store-Kontos werden der App dabei nicht zur Verfügung gestellt.
 Die App übermittelt diese Kauf- und Lizenzinformationen nicht zur Prüfung an eigene Server des Anbieters.
 Der Anbieter kann über die Verwaltungsoberflächen der Stores Verkaufs-, Abrechnungs- und statistische Berichte erhalten. Umfang und Personenbezug dieser Informationen richten sich nach dem jeweiligen Store; solche Berichte sind nicht mit einer eigenen Erfassung deines Zeichen- oder Nutzungsverhaltens durch GeometrySketch gleichzusetzen.
 Für die eigenständige Verarbeitung durch die Plattformanbieter gelten insbesondere:
-•	Google: https://policies.google.com/privacy?hl=de
-•	Apple: https://www.apple.com/legal/privacy/de-ww/
-•	Microsoft: https://privacy.microsoft.com/de-de/privacystatement
+-	Google: https://policies.google.com/privacy?hl=de
+-	Apple: https://www.apple.com/legal/privacy/de-ww/
+-	Microsoft: https://privacy.microsoft.com/de-de/privacystatement
 Die Verwaltung und Kündigung von Store-Abonnements erfolgt über den jeweiligen Plattformanbieter. Das Löschen der App oder ihrer lokalen Daten beendet ein Abonnement nicht automatisch.
 
 # 6) Schullizenzen
 Schullizenzen werden außerhalb der In-App-Kaufsysteme direkt beim Anbieter angefragt und erworben.
 Für Anfrage, Angebot, Rechnungsstellung und Bereitstellung der Lizenz werden insbesondere folgende Angaben verarbeitet:
-•	Name des Ansprechpartners;
-•	E-Mail-Adresse der Schule beziehungsweise des Ansprechpartners;
-•	Name und Anschrift der Schule;
-•	Anzahl der Schülerinnen und Schüler zur Bestimmung des Lizenzpreises;
-•	Rechnungs-, Zahlungs- und Korrespondenzdaten.
+-	Name des Ansprechpartners;
+-	E-Mail-Adresse der Schule beziehungsweise des Ansprechpartners;
+-	Name und Anschrift der Schule;
+-	Anzahl der Schülerinnen und Schüler zur Bestimmung des Lizenzpreises;
+-	Rechnungs-, Zahlungs- und Korrespondenzdaten.
 Die Anzahl der Schülerinnen und Schüler wird als Gesamtzahl benötigt. Für die Ausstellung einer Schullizenz sind keine Namenslisten oder individuellen Nutzungsdaten von Schülerinnen und Schülern erforderlich.
 Die Verarbeitung erfolgt zur Anbahnung und Durchführung des Lizenzvertrags sowie zur Erfüllung gesetzlicher Pflichten. Rechtsgrundlagen sind, soweit jeweils anwendbar, Art. 6 Abs. 1 Buchst. b und c DSGVO. Die Verarbeitung dienstlicher Kontaktdaten von Ansprechpartnern kann außerdem auf Art. 6 Abs. 1 Buchst. f DSGVO beruhen; das berechtigte Interesse besteht in der Kommunikation und Vertragsabwicklung mit der Schule.
 E-Mail-Kommunikation und Zahlungen werden über die dafür eingesetzten E-Mail- und Bankdienste abgewickelt. Dabei erhalten diese Dienste die für ihre jeweilige Leistung erforderlichen Daten.
@@ -107,12 +107,12 @@ Für Daten bei Stores, Cloud-, Backup- und Zahlungsdiensten gelten deren eigene 
 
 # 11) Deine Rechte
 Soweit die gesetzlichen Voraussetzungen vorliegen, hast du gegenüber dem jeweiligen Verantwortlichen insbesondere das Recht auf:
-•	Auskunft über deine personenbezogenen Daten;
-•	Berichtigung unrichtiger Daten;
-•	Löschung;
-•	Einschränkung der Verarbeitung;
-•	Datenübertragbarkeit;
-•	Widerspruch gegen eine Verarbeitung auf Grundlage berechtigter Interessen.
+-	Auskunft über deine personenbezogenen Daten;
+-	Berichtigung unrichtiger Daten;
+-	Löschung;
+-	Einschränkung der Verarbeitung;
+-	Datenübertragbarkeit;
+-	Widerspruch gegen eine Verarbeitung auf Grundlage berechtigter Interessen.
 Eine erteilte datenschutzrechtliche Einwilligung kannst du jederzeit mit Wirkung für die Zukunft widerrufen.
 Du hast außerdem das Recht, dich bei einer Datenschutzaufsichtsbehörde zu beschweren.
 Anfragen zur Datenverarbeitung durch den Anbieter von GeometrySketch kannst du an geometrysketch@outlook.de richten. Bei Daten, die ein Store oder ein anderer externer Dienst eigenständig verarbeitet, wende dich bitte an dessen Betreiber.
