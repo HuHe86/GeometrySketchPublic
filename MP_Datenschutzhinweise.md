@@ -18,8 +18,11 @@ Für die eigenständige Datenverarbeitung der jeweiligen App-Stores, Zahlungsdie
 
 ## 2) Grundsätzliches zur App
 GeometrySketch ist eine Zeichen- und Geometrie-App. Zeichnungen, Dokumente und Einstellungen werden durch die App lokal auf deinem Gerät beziehungsweise an den von dir gewählten Speicherorten gespeichert.
+
 GeometrySketch benötigt kein eigenes Benutzerkonto beim App-Anbieter. Die App übermittelt Zeichnungen und Dokumente nicht automatisch an eigene Server des Anbieters. Es gibt keinen eigenen serverseitigen Dienst zur Synchronisierung dieser Inhalte oder zur Prüfung von Store-Käufen.
+
 Die App enthält keine eigenen Werbe-, Tracking- oder Analysefunktionen zur Übermittlung deines Nutzungsverhaltens an den Anbieter.
+
 Davon zu unterscheiden sind:
 -	die Kommunikation mit dem jeweiligen Store zur Abwicklung von Käufen und zur Prüfung von Berechtigungen;
 -	von dir ausgewählte Speicher-, Backup- und Cloud-Dienste;
