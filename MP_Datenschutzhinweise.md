@@ -70,6 +70,7 @@ Kostenpflichtige Funktionen können, abhängig von Plattform und Verfügbarkeit,
 Die App verwendet dafür die Kauf- und Lizenzschnittstellen des jeweiligen Plattformanbieters. Diese werden auch verwendet, um Käufe wiederherzustellen und bestehende Berechtigungen zu prüfen. Eine Statusprüfung kann beim Start der App oder bei einer von dir ausgelösten Aktualisierung erfolgen – nicht nur beim Abschluss eines neuen Kaufs.
 
 Dabei können der jeweilige Store und dessen Zahlungsdienstleister insbesondere Konto-, Kauf-, Zahlungs-, Geräte- und technische Verbindungsdaten verarbeiten. Welche Daten im Einzelnen verarbeitet werden, richtet sich nach dem jeweiligen Store und den dort verwendeten Diensten.
+
 GeometrySketch erhält die zur Freischaltung erforderlichen Kauf- und Lizenzinformationen. Zahlungsdaten wie vollständige Kreditkartennummern oder Zugangsdaten deines Store-Kontos werden der App dabei nicht zur Verfügung gestellt.
 
 Die App übermittelt diese Kauf- und Lizenzinformationen nicht zur Prüfung an eigene Server des Anbieters.
