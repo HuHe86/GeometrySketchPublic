@@ -7,16 +7,12 @@ Diese Datenschutzhinweise erläutern, welche Daten bei der Nutzung von GeometryS
 ## 1) Verantwortlicher und Kontakt
 Verantwortlich für die vom Anbieter von GeometrySketch veranlasste Datenverarbeitung ist:
 
-**Hubert Heinz**
+**Hubert Heinz**  
+Anton-Gäck-Straße 5  
+85110 Kipfenberg  
+Germany
 
-Anton-Gäck-Straße 5
-
-85110 Kipfenberg
-
-Deutschland
-
-
-**E-Mail:** geometrysketch@outlook.de
+**Email:** geometrysketch@outlook.de
 
 Für die eigenständige Datenverarbeitung der jeweiligen App-Stores, Zahlungsdienste und von dir ausgewählten externen Dienste sind deren Betreiber verantwortlich.
 
