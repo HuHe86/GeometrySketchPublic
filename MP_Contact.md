@@ -3,10 +3,10 @@
 *Last updated: 12 October 2026*
 
 ## Contact/Kontakt
-Hubert Heinz
-Anton-Gäck-Straße 5
-85110 Kipfenberg
-DEUTSCHLAND
+**Hubert Heinz**  
+Anton-Gäck-Straße 5  
+85110 Kipfenberg  
+Germany
 
 geometrysketch@outlook.de
 
