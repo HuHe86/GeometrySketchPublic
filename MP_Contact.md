@@ -7,6 +7,7 @@ Hubert Heinz
 Anton-Gäck-Straße 5
 85110 Kipfenberg
 DEUTSCHLAND
+
 geometrysketch@outlook.de
 
 ## Datenschutzhinweise/PrivacyPolicy
