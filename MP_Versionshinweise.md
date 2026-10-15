@@ -2,6 +2,9 @@
 
 *Aktualisiert am 06.10.2026*
 
+## Version 0.0.5 (in Entwicklung)
+- Verbesserungen der Zwischenablage
+
 ## Version 0.0.4
 - Englisch als Sprache für die Benutzeroberfläche hinzugefügt
 
