@@ -1,6 +1,6 @@
 # Versionshinweise
 
-*Aktualisiert am 06.10.2026*
+*Aktualisiert am 15.10.2026*
 
 ## Version 0.0.5 (in Entwicklung)
 - Verbesserungen der Zwischenablage
