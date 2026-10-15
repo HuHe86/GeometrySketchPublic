@@ -1,6 +1,9 @@
 # Release Notes
 
-*Updated on 10/06/2026*
+*Updated on 10/15/2026*
+
+## Version 0.0.5 (in development)
+- Clipboard improvements
 
 ## Version 0.0.4
 - Added English as a UI language
