@@ -19,7 +19,9 @@ Für den Bezug der Anwendung sowie für Käufe und Abonnements über Google Play
 
 ### Apple App Store
 
-Wird GeometrySketch über den Apple App Store bezogen, gilt ergänzend die Apple Standard Licensed Application End User License Agreement („Apple Standard-EULA“).
+Wird GeometrySketch über den Apple App Store bezogen, gilt ergänzend die Apple Standard Licensed Application End User License Agreement („Apple Standard EULA“), abrufbar unter:
+
+[Apple Standard EULA](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
 
 Diese Nutzungsbedingungen ergänzen die Apple Standard-EULA und regeln insbesondere die app-spezifischen Funktionen, Abonnements, Schullizenzen und sonstigen Leistungen von GeometrySketch. Soweit kein Widerspruch besteht, gelten beide Regelwerke nebeneinander.
 
