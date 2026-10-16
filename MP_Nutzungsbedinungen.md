@@ -1,6 +1,6 @@
 # Nutzungsbedingungen für GeometrySketch
 
-*Stand: 07.10.2026*
+*Stand: 16.10.2026*
 
 ## 1) Anbieter und Geltungsbereich
 
@@ -16,6 +16,18 @@ Deutschland
 Diese Nutzungsbedingungen regeln die Nutzung von GeometrySketch, im Folgenden „Anwendung“.
 
 Für den Bezug der Anwendung sowie für Käufe und Abonnements über Google Play, den Apple App Store oder den Microsoft Store gelten zusätzlich die jeweils anwendbaren Bedingungen des betreffenden Stores. Individuelle Vereinbarungen, insbesondere zu Schullizenzen, haben Vorrang vor diesen allgemeinen Nutzungsbedingungen.
+
+### Apple App Store
+
+Wird GeometrySketch über den Apple App Store bezogen, gilt ergänzend die Apple Standard Licensed Application End User License Agreement („Apple Standard-EULA“).
+
+Diese Nutzungsbedingungen ergänzen die Apple Standard-EULA und regeln insbesondere die app-spezifischen Funktionen, Abonnements, Schullizenzen und sonstigen Leistungen von GeometrySketch. Soweit kein Widerspruch besteht, gelten beide Regelwerke nebeneinander.
+
+Apple Inc. und ihre verbundenen Unternehmen sind keine Vertragspartei dieser Nutzungsbedingungen und nicht verantwortlich für Support-, Wartungs- oder Gewährleistungsleistungen bezüglich GeometrySketch.
+
+Soweit nach den Vorgaben des Apple App Store erforderlich, gelten Apple Inc. und ihre verbundenen Unternehmen als begünstigte Dritte dieser Nutzungsbedingungen und sind berechtigt, die hierin enthaltenen Bestimmungen gegenüber den Nutzern durchzusetzen.
+
+Im Falle eines Widerspruchs zwischen diesen Nutzungsbedingungen und zwingenden Bestimmungen der Apple Standard-EULA gehen die entsprechenden Bestimmungen der Apple Standard-EULA vor.
 
 Diese Bedingungen werden Bestandteil des jeweiligen Nutzungsvertrags, soweit sie wirksam vereinbart wurden. Zwingende gesetzliche Rechte bleiben unberührt.
 
