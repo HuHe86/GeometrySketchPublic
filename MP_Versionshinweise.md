@@ -1,9 +1,10 @@
 # Versionshinweise
 
-*Aktualisiert am 15.10.2026*
+*Aktualisiert am 16.10.2026*
 
 ## Version 0.0.5 (in Entwicklung)
 - Verbesserungen der Zwischenablage
+- Eimerwerkzeug zum Ausfüllen geschlossener Flächen zugefügt
 
 ## Version 0.0.4
 - Englisch als Sprache für die Benutzeroberfläche hinzugefügt
