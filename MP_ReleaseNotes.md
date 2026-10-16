@@ -1,9 +1,10 @@
 # Release Notes
 
-*Updated on 10/15/2026*
+*Updated on 10/16/2026*
 
 ## Version 0.0.5 (in development)
 - Clipboard improvements
+- Bucket tool added for filling closed areas
 
 ## Version 0.0.4
 - Added English as a UI language
