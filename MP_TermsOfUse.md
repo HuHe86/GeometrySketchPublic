@@ -19,7 +19,9 @@ The acquisition of the Application and any purchases or subscriptions through Go
 
 ### Apple App Store
 
-If GeometrySketch is obtained through the Apple App Store, the Apple Standard Licensed Application End User License Agreement ("Apple Standard EULA") shall additionally apply.
+If GeometrySketch is obtained through the Apple App Store, the Apple Standard Licensed Application End User License Agreement ("Apple Standard EULA") shall additionally apply and is available at:
+
+[Apple Standard Licensed Application End User License Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
 
 These Terms of Use supplement the Apple Standard EULA and govern, in particular, the application-specific features, subscriptions, school licenses, and other services of GeometrySketch. Unless there is a conflict, both sets of terms shall apply concurrently.
 
