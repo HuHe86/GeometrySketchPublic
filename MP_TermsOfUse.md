@@ -1,10 +1,10 @@
-# Terms of Use
+# Terms of Use for GeometrySketch
 
-*Last updated: 7 October 2026*
+*Last updated: 16 October 2026*
 
 ## 1) Provider and Scope
 
-GeometrySketch is provided by:
+The provider of GeometrySketch is:
 
 **Hubert Heinz**  
 Anton-Gäck-Straße 5  
@@ -13,149 +13,161 @@ Germany
 
 **Email:** geometrysketch@outlook.de
 
-These Terms of Use govern the use of GeometrySketch, hereinafter referred to as the “Application.”
+These Terms of Use govern the use of GeometrySketch, hereinafter referred to as the "Application".
 
-The applicable terms of the respective store also apply to obtaining the Application and to purchases and subscriptions through Google Play, the Apple App Store, or the Microsoft Store. Individual agreements, particularly those concerning school licenses, take precedence over these general Terms of Use.
+The acquisition of the Application and any purchases or subscriptions through Google Play, the Apple App Store, or the Microsoft Store are also subject to the applicable terms and conditions of the respective store. Individual agreements, in particular school licensing agreements, shall take precedence over these general Terms of Use.
 
-These terms form part of the relevant agreement governing use of the Application to the extent that they have been validly agreed upon. Mandatory statutory rights remain unaffected.
+### Apple App Store
+
+If GeometrySketch is obtained through the Apple App Store, the Apple Standard Licensed Application End User License Agreement ("Apple Standard EULA") shall additionally apply.
+
+These Terms of Use supplement the Apple Standard EULA and govern, in particular, the application-specific features, subscriptions, school licenses, and other services of GeometrySketch. Unless there is a conflict, both sets of terms shall apply concurrently.
+
+Apple Inc. and its affiliated companies are not parties to these Terms of Use and are not responsible for support, maintenance, or warranty services relating to GeometrySketch.
+
+To the extent required by the Apple App Store policies, Apple Inc. and its affiliated companies shall be considered third-party beneficiaries of these Terms of Use and shall have the right to enforce these Terms against users.
+
+In the event of any conflict between these Terms of Use and mandatory provisions of the Apple Standard EULA, the relevant provisions of the Apple Standard EULA shall prevail.
+
+These Terms of Use form part of the user agreement to the extent they have been validly incorporated. Mandatory statutory rights remain unaffected.
 
 ## 2) Features and Technical Requirements
 
-GeometrySketch is a drawing and geometry application. The available features depend on the platform, app version, and existing entitlement.
+GeometrySketch is a drawing and geometry application. Available features depend on the platform, application version, and applicable usage rights.
 
-Some features may be available free of charge. Additional features may require a paid subscription or a valid school license.
+Certain features may be available free of charge. Advanced features may require a paid subscription or a valid school license.
 
-Technical requirements are set out in the relevant store description and the specific offer. Please check compatibility with your devices before making a purchase.
+Technical requirements are specified in the respective store listing and the applicable offer. Please verify compatibility with your devices before making a purchase.
 
-An internet connection and an account with the respective store may be required for downloads, updates, purchases, restoring purchases, and verifying store entitlements.
+An internet connection and an account with the respective store may be required for downloads, updates, purchases, purchase restoration, and verification of store entitlements.
 
-The Application is not a certified measuring instrument. Drawings, measurements, and calculation results should be checked before being used for purposes that require particular accuracy.
+The Application is not a certified measuring instrument. Drawings, measurements, and calculation results should be verified before being used in situations where a high degree of accuracy is required.
 
-## 3) Rights of Use and Copyright
+## 3) License Rights and Copyright
 
-The Application and its components are protected by copyright.
+The Application and its components are protected by copyright and other intellectual property laws.
 
-Under the respective offer, you are granted a non-exclusive right to use the Application. For paid features, this right applies within the agreed license scope and for the duration of the relevant entitlement.
+Subject to the applicable offer, you are granted a limited, non-exclusive, non-transferable right to use the Application. For paid features, this right exists within the agreed license scope and for the duration of the relevant entitlement.
 
-Without appropriate permission, you may not reproduce, distribute, modify, or decompile the Application, or create derivative applications based on it.
+Without authorization, you may not reproduce, distribute, modify, decompile, reverse engineer, or create derivative works based on the Application.
 
-The following are exceptions:
+The following are excluded from this restriction:
 
-- actions expressly permitted by law;
-- uses permitted by the applicable store terms;
+- actions expressly permitted by applicable law;
+- uses permitted under applicable store terms and conditions;
 - components subject to separate open-source or third-party licenses.
 
-The respective license terms apply to such third-party components. Relevant notices can be viewed in the Application.
+Such third-party components are subject to their respective license terms. Relevant notices may be available within the Application.
 
-These terms do not grant the provider any rights to drawings or documents you create. Third-party rights in imported content remain unaffected.
+These Terms of Use do not transfer any rights in drawings, documents, or other content created by you. Rights of third parties in imported content remain unaffected.
 
 ## 4) In-App Purchases and Store Subscriptions
 
-Depending on the platform and availability, paid features may be offered through the following stores:
+Paid features may be offered through the following stores, depending on the platform and availability:
 
-- Google Play on Android;
-- Apple App Store on iOS and macOS;
-- Microsoft Store on Windows.
+- Google Play for Android;
+- Apple App Store for iOS and macOS;
+- Microsoft Store for Windows.
 
-The offer displayed to you before purchase determines the price, scope of services, subscription term, payment arrangements, any trial periods, and renewal conditions.
+The applicable price, scope of services, duration, payment terms, trial periods, and renewal conditions are determined by the offer displayed to you before purchase.
 
-If an automatically renewing subscription is offered and purchased, it renews under the conditions stated at the time of purchase unless canceled in time.
+Where an automatically renewing subscription is offered and purchased, it will renew according to the conditions presented during the purchase process unless canceled in time.
 
-Subscriptions are managed and canceled through the respective store or the account used there. Uninstalling the Application or deleting local app data does not cancel a subscription.
+Subscriptions are managed and canceled through the respective store or the account used with that store. Uninstalling the Application or deleting local application data does not cancel a subscription.
 
-Restoring a purchase depends on the facilities provided by the respective store and generally requires the account used for the original purchase.
+Purchase restoration is subject to the capabilities of the respective store and generally requires access to the account used for the original purchase.
 
-A purchase in one store does not automatically grant an entitlement in another store. Cross-store use is available only if expressly included in the relevant offer.
+A purchase in one store does not automatically grant entitlement in another store. Cross-store usage rights exist only if expressly included in the applicable offer.
 
-Once a paid entitlement expires or ends, access to features dependent on that entitlement may be restricted. Statutory claims and expressly agreed services remain unaffected.
+After expiration or termination of a paid entitlement, access to dependent features may be restricted. Statutory rights and expressly agreed services remain unaffected.
 
 ## 5) School Licenses
 
-School licenses are purchased directly from the provider, outside the in-app purchase systems.
+School licenses are purchased directly from the provider and outside the in-app purchasing systems.
 
-A one-year school license authorizes students and teachers of the licensed school to use the included paid features on compatible devices during the agreed period.
+A one-year school license entitles students and teachers of the licensed school to use the included paid features on compatible devices during the agreed license period.
 
-The specific offer and the school license terms agreed upon at the time of purchase apply. The school must check the compatibility of the intended devices before purchasing the license.
+The specific offer and the school license terms agreed at the time of purchase shall be decisive. The school is responsible for verifying device compatibility before purchase.
 
-The school license ends after the agreed period and does not renew automatically unless expressly agreed otherwise.
+The school license expires at the end of the agreed term and does not renew automatically unless expressly agreed otherwise.
 
-Entitlement is established through a license file imported into the Application. The license file may be shared only with individuals covered by the agreed license scope. Publishing it publicly or sharing it with unauthorized third parties is not permitted.
+Eligibility is verified through a license file imported into the Application. The license file may only be shared with persons covered by the agreed license scope. Public disclosure or distribution to unauthorized third parties is prohibited.
 
-The Application and its updates must generally be obtained from the designated official stores.
+The Application and its updates should generally be obtained through the designated official stores.
 
-## 6) Your Content, Storage, and Backups
+## 6) User Content, Storage, and Data Backup
 
-You are responsible for ensuring that you hold the necessary rights to content you enter, import, or share.
+You are responsible for ensuring that you possess all necessary rights to the content you create, import, store, or share through the Application.
 
-Drawings, documents, and settings are generally stored locally on your device or in storage locations you choose. GeometrySketch does not provide its own cloud synchronization service for this content.
+Drawings, documents, and settings are generally stored locally on your device or in storage locations chosen by you. GeometrySketch does not provide its own cloud synchronization service for such content.
 
-Please back up important documents regularly. In particular, you should back up your files before uninstalling the Application, deleting app data, changing devices, or changing storage locations.
+You should regularly back up important documents. In particular, backups should be created before uninstalling the Application, deleting application data, changing devices, or modifying storage locations.
 
-The respective providers’ terms also apply to any cloud, backup, storage, or sharing services you select.
+Any cloud, backup, storage, or sharing services chosen by you are additionally governed by their respective providers' terms and conditions.
 
-These backup recommendations do not limit the provider’s statutory liability.
+These backup recommendations do not limit the provider's statutory responsibility.
 
 ## 7) Updates and Changes to the Application
 
-The Application is continually developed. Features may be improved, added, or adjusted for technical reasons.
+The Application is continuously developed and may be improved, expanded, or modified for technical reasons.
 
-Updates required by law, particularly necessary security updates, will be provided to the extent required by law. You should install available updates and follow the accompanying instructions.
+Legally required updates, including necessary security updates, will be provided to the extent required by applicable law. You should install available updates and follow any related instructions.
 
-For paid digital products, changes beyond those necessary to maintain conformity with the contract will be made only in accordance with the applicable legal requirements and validly agreed contractual terms.
+For paid digital products, changes beyond those necessary to maintain contractual conformity will only be made in accordance with applicable legal requirements and valid contractual provisions.
 
-Where required by law, you will be informed of changes and the rights associated with them. Statutory rights, particularly those concerning changes that negatively affect you, remain unaffected.
+Where required by law, you will be informed about changes and any associated rights. Statutory rights, particularly in the event of disadvantageous changes, remain unaffected.
 
-There is no general entitlement to the development of specific new features unless they have been expressly promised.
+There is no general entitlement to the development of specific new features unless such features have been expressly promised.
 
-## 8) Withdrawal, Refunds, and Statutory Rights for Defective Products
+## 8) Withdrawal Rights, Refunds, and Statutory Warranty Rights
 
-Statutory consumer rights, particularly rights of withdrawal and rights relating to defective digital products, remain unaffected.
+Statutory consumer rights, including withdrawal rights and rights relating to defective digital products, remain unaffected.
 
-For store purchases, the procedure for withdrawal and refunds, as well as the responsible contracting party, is determined by the relevant purchase agreement, applicable law, and the store’s terms.
+For store purchases, procedures relating to withdrawal and refunds, as well as the responsible contracting party, are governed by the respective purchase agreement, applicable laws, and the conditions of the relevant store.
 
-A statutory right of withdrawal does not expire solely because of these Terms of Use or because the Application has been installed. Such a right may expire only when the applicable statutory conditions are met.
+Any statutory right of withdrawal does not expire solely due to these Terms of Use or the installation of the Application. Such rights expire only under the conditions provided by applicable law.
 
-A store’s responsibility for processing payments does not exclude statutory claims against the responsible contracting party.
+A store's role in processing payments does not exclude statutory claims against the party legally responsible for the contract.
 
 ## 9) Liability
 
-The provider’s liability is unlimited:
+The provider shall be liable without limitation:
 
-- in cases of intent or gross negligence;
+- in cases of intent and gross negligence;
 - for injury to life, body, or health;
-- under the German Product Liability Act;
-- within the scope of an expressly assumed guarantee;
-- in cases of fraudulent concealment of a defect;
-- in any other case of mandatory statutory liability.
+- under applicable product liability laws;
+- to the extent of an expressly assumed guarantee;
+- for fraudulently concealed defects;
+- in any other case where liability is mandatory under applicable law.
 
-In cases of ordinary negligence, the provider is liable for breaches of essential contractual obligations. These are obligations whose performance is necessary for the proper execution of the contract and on whose fulfillment you may ordinarily rely. In such cases, liability is limited to foreseeable damage typical of the contract.
+In cases of ordinary negligence, the provider shall only be liable for breaches of essential contractual obligations. Essential contractual obligations are obligations whose fulfillment is indispensable for the proper performance of the contract and on whose compliance users may regularly rely. In such cases, liability shall be limited to the foreseeable damage typical for the contract.
 
 Otherwise, liability for ordinary negligence is excluded to the extent permitted by law.
 
-These provisions do not limit statutory rights relating to defects or mandatory rights concerning digital products.
+Statutory warranty rights and mandatory rights relating to digital products remain unaffected.
 
 ## 10) Privacy
 
-Information about the processing of personal data, locally stored content, purchase and license information, and the stores involved can be found in the separate Privacy Notice for GeometrySketch.
+Information regarding the processing of personal data, locally stored content, purchase and licensing information, and the involvement of app stores can be found in the separate Privacy Policy for GeometrySketch.
 
 ## 11) Support
 
-For questions or problems, you can contact the provider at:
+For questions or technical issues, please contact:
 
 **geometrysketch@outlook.de**
 
-Where possible, please include the platform you use, the app version, and a description of the problem. Provide only the information necessary to handle your request and avoid sending confidential personal content.
+Where possible, please provide the platform used, the application version, and a description of the issue. Please submit only information necessary for processing your request and avoid including confidential personal information.
 
-A particular response time or scope of support is owed only if expressly agreed. Statutory obligations remain unaffected.
+No specific response time or support level is owed unless expressly agreed. Statutory obligations remain unaffected.
 
 ## 12) Changes to These Terms of Use
 
-These Terms of Use may be updated for future agreements.
+These Terms of Use may be updated for future contracts.
 
-Changes to existing agreements do not take effect solely through publication of a new version. Such changes require a valid contractual or statutory basis and compliance with any applicable information and consent requirements.
+Changes to existing contracts do not become effective solely through publication of a revised version. Such changes require a valid contractual or legal basis and compliance with any applicable information and consent requirements.
 
-The date at the beginning identifies the version of these terms.
+The version date at the beginning of this document identifies the current version.
 
 ## 13) Final Provisions
 
-If any provision of these Terms of Use is or becomes invalid, the applicable statutory provisions shall apply. The remaining provisions remain effective to the extent provided by law.
+Should any provision of these Terms of Use be or become invalid, the applicable statutory provisions shall apply. The remaining provisions shall remain effective to the extent permitted 
