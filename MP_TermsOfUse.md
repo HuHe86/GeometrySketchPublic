@@ -1,175 +1,193 @@
-# Terms of Use for GeometrySketch
+# GeometrySketch Terms of Use
 
-*Last updated: 16 October 2026*
+**Last Updated: October 2026**
 
-## 1) Provider and Scope
+## 1. Scope
 
-The provider of GeometrySketch is:
+These Terms of Use govern the use of the GeometrySketch application ("App") and any related services.
+
+The App is operated by:
 
 **Hubert Heinz**  
 Anton-Gäck-Straße 5  
 85110 Kipfenberg  
 Germany
 
-**Email:** geometrysketch@outlook.de
+Email: geometrysketch@outlook.de
 
-These Terms of Use govern the use of GeometrySketch, hereinafter referred to as the "Application".
+By downloading, installing, or using the App, you agree to these Terms of Use.
 
-The acquisition of the Application and any purchases or subscriptions through Google Play, the Apple App Store, or the Microsoft Store are also subject to the applicable terms and conditions of the respective store. Individual agreements, in particular school licensing agreements, shall take precedence over these general Terms of Use.
+---
 
-### Apple App Store
+## 2. Description of Services
 
-If GeometrySketch is obtained through the Apple App Store, the Apple Standard Licensed Application End User License Agreement ("Apple Standard EULA") shall additionally apply and is available at:
+GeometrySketch is a software application for creating, editing, and managing geometric constructions, sketches, drawings, and mathematical content.
 
-[Apple Standard Licensed Application End User License Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
+The available features and functionality may change due to updates, enhancements, or technical adjustments.
 
-These Terms of Use supplement the Apple Standard EULA and govern, in particular, the application-specific features, subscriptions, school licenses, and other services of GeometrySketch. Unless there is a conflict, both sets of terms shall apply concurrently.
+Unless required by law, there is no entitlement to specific features or functionalities.
 
-Apple Inc. and its affiliated companies are not parties to these Terms of Use and are not responsible for support, maintenance, or warranty services relating to GeometrySketch.
+---
 
-To the extent required by the Apple App Store policies, Apple Inc. and its affiliated companies shall be considered third-party beneficiaries of these Terms of Use and shall have the right to enforce these Terms against users.
+## 3. License
 
-In the event of any conflict between these Terms of Use and mandatory provisions of the Apple Standard EULA, the relevant provisions of the Apple Standard EULA shall prevail.
+Subject to these Terms of Use, the user is granted a limited, non-exclusive, non-transferable, revocable license to use the App.
 
-These Terms of Use form part of the user agreement to the extent they have been validly incorporated. Mandatory statutory rights remain unaffected.
+This license is granted solely for personal, educational, or school-related use within the scope of the purchased or licensed features.
 
-## 2) Features and Technical Requirements
+The following activities are prohibited:
 
-GeometrySketch is a drawing and geometry application. Available features depend on the platform, application version, and applicable usage rights.
+- Redistributing the App
+- Renting, leasing, or selling the App
+- Reverse engineering, decompiling, or modifying the App except where permitted by applicable law
+- Removing copyright notices or proprietary markings
 
-Certain features may be available free of charge. Advanced features may require a paid subscription or a valid school license.
+All rights not expressly granted remain the property of the App operator.
 
-Technical requirements are specified in the respective store listing and the applicable offer. Please verify compatibility with your devices before making a purchase.
+---
 
-An internet connection and an account with the respective store may be required for downloads, updates, purchases, purchase restoration, and verification of store entitlements.
+## 4. Subscriptions and In-App Purchases
 
-The Application is not a certified measuring instrument. Drawings, measurements, and calculation results should be verified before being used in situations where a high degree of accuracy is required.
+Certain features may be available through paid subscriptions or in-app purchases.
 
-## 3) License Rights and Copyright
+### 4.1 Automatic Renewal
 
-The Application and its components are protected by copyright and other intellectual property laws.
+Subscriptions automatically renew unless canceled at least 24 hours before the end of the current billing period.
 
-Subject to the applicable offer, you are granted a limited, non-exclusive, non-transferable right to use the Application. For paid features, this right exists within the agreed license scope and for the duration of the relevant entitlement.
+### 4.2 Billing
 
-Without authorization, you may not reproduce, distribute, modify, decompile, reverse engineer, or create derivative works based on the Application.
+Payment will be charged through the user's App Store account.
 
-The following are excluded from this restriction:
+Subscription management and cancellation must be handled through the user's account settings within the applicable App Store.
 
-- actions expressly permitted by applicable law;
-- uses permitted under applicable store terms and conditions;
-- components subject to separate open-source or third-party licenses.
+### 4.3 Cancellation
 
-Such third-party components are subject to their respective license terms. Relevant notices may be available within the Application.
+Deleting the App does not cancel an active subscription.
 
-These Terms of Use do not transfer any rights in drawings, documents, or other content created by you. Rights of third parties in imported content remain unaffected.
+Users must cancel subscriptions through the App Store account used to purchase the subscription.
 
-## 4) In-App Purchases and Store Subscriptions
+### 4.4 Refunds
 
-Paid features may be offered through the following stores, depending on the platform and availability:
+Refund requests are subject to the policies of the applicable App Store provider.
 
-- Google Play for Android;
-- Apple App Store for iOS and macOS;
-- Microsoft Store for Windows.
+---
 
-The applicable price, scope of services, duration, payment terms, trial periods, and renewal conditions are determined by the offer displayed to you before purchase.
+## 5. School Licenses
 
-Where an automatically renewing subscription is offered and purchased, it will renew according to the conditions presented during the purchase process unless canceled in time.
+Special licenses may be offered to schools and educational institutions.
 
-Subscriptions are managed and canceled through the respective store or the account used with that store. Uninstalling the Application or deleting local application data does not cancel a subscription.
+The scope of each school license is defined by the corresponding license agreement or license file provided.
 
-Purchase restoration is subject to the capabilities of the respective store and generally requires access to the account used for the original purchase.
+School licenses may only be used within the agreed scope and may not be shared with unauthorized third parties.
 
-A purchase in one store does not automatically grant entitlement in another store. Cross-store usage rights exist only if expressly included in the applicable offer.
+The right to use a time-limited school license automatically expires at the end of the agreed license period.
 
-After expiration or termination of a paid entitlement, access to dependent features may be restricted. Statutory rights and expressly agreed services remain unaffected.
+---
 
-## 5) School Licenses
+## 6. Updates and Modifications
 
-School licenses are purchased directly from the provider and outside the in-app purchasing systems.
+The App operator may provide updates, bug fixes, security patches, and feature enhancements.
 
-A one-year school license entitles students and teachers of the licensed school to use the included paid features on compatible devices during the agreed license period.
+Where required by law, necessary updates will be provided to maintain the conformity and functionality of the App.
 
-The specific offer and the school license terms agreed at the time of purchase shall be decisive. The school is responsible for verifying device compatibility before purchase.
+---
 
-The school license expires at the end of the agreed term and does not renew automatically unless expressly agreed otherwise.
+## 7. User Data and Storage
 
-Eligibility is verified through a license file imported into the Application. The license file may only be shared with persons covered by the agreed license scope. Public disclosure or distribution to unauthorized third parties is prohibited.
+User-created documents, drawings, and projects are generally stored locally on the user's device unless another storage method is explicitly provided.
 
-The Application and its updates should generally be obtained through the designated official stores.
+Users are responsible for creating backups of their own data.
 
-## 6) User Content, Storage, and Data Backup
+The App operator is not liable for data loss unless caused intentionally or through gross negligence.
 
-You are responsible for ensuring that you possess all necessary rights to the content you create, import, store, or share through the Application.
+---
 
-Drawings, documents, and settings are generally stored locally on your device or in storage locations chosen by you. GeometrySketch does not provide its own cloud synchronization service for such content.
+## 8. Privacy
 
-You should regularly back up important documents. In particular, backups should be created before uninstalling the Application, deleting application data, changing devices, or modifying storage locations.
+The processing of personal data is governed by the Privacy Policy.
 
-Any cloud, backup, storage, or sharing services chosen by you are additionally governed by their respective providers' terms and conditions.
+The current Privacy Policy is available at:
 
-These backup recommendations do not limit the provider's statutory responsibility.
+https://github.com/HuHe86/GeometrySketchPublic/blob/main/MP_PrivacyPolicy.md
 
-## 7) Updates and Changes to the Application
+---
 
-The Application is continuously developed and may be improved, expanded, or modified for technical reasons.
+## 9. Intellectual Property
 
-Legally required updates, including necessary security updates, will be provided to the extent required by applicable law. You should install available updates and follow any related instructions.
+The App, including its software, design, graphics, user interface, documentation, and trademarks, is protected by copyright and other intellectual property laws.
 
-For paid digital products, changes beyond those necessary to maintain contractual conformity will only be made in accordance with applicable legal requirements and valid contractual provisions.
+All rights remain with the App operator or the respective rights holders.
 
-Where required by law, you will be informed about changes and any associated rights. Statutory rights, particularly in the event of disadvantageous changes, remain unaffected.
+---
 
-There is no general entitlement to the development of specific new features unless such features have been expressly promised.
+## 10. Warranty and Consumer Rights
 
-## 8) Withdrawal Rights, Refunds, and Statutory Warranty Rights
+Users are entitled to all mandatory consumer rights and legal warranty rights applicable under their local laws.
 
-Statutory consumer rights, including withdrawal rights and rights relating to defective digital products, remain unaffected.
+Where required by law, updates necessary to maintain conformity of the digital product will be provided.
 
-For store purchases, procedures relating to withdrawal and refunds, as well as the responsible contracting party, are governed by the respective purchase agreement, applicable laws, and the conditions of the relevant store.
+---
 
-Any statutory right of withdrawal does not expire solely due to these Terms of Use or the installation of the Application. Such rights expire only under the conditions provided by applicable law.
+## 11. Limitation of Liability
 
-A store's role in processing payments does not exclude statutory claims against the party legally responsible for the contract.
+The App operator shall be liable without limitation for:
 
-## 9) Liability
+- Intentional misconduct
+- Gross negligence
+- Injury to life, body, or health
+- Liability under applicable product liability laws
 
-The provider shall be liable without limitation:
+In cases of ordinary negligence, liability is limited to breaches of essential contractual obligations and to foreseeable damages typical for the contract.
 
-- in cases of intent and gross negligence;
-- for injury to life, body, or health;
-- under applicable product liability laws;
-- to the extent of an expressly assumed guarantee;
-- for fraudulently concealed defects;
-- in any other case where liability is mandatory under applicable law.
+Any further liability is excluded to the extent permitted by applicable law.
 
-In cases of ordinary negligence, the provider shall only be liable for breaches of essential contractual obligations. Essential contractual obligations are obligations whose fulfillment is indispensable for the proper performance of the contract and on whose compliance users may regularly rely. In such cases, liability shall be limited to the foreseeable damage typical for the contract.
+---
 
-Otherwise, liability for ordinary negligence is excluded to the extent permitted by law.
+## 12. Apple App Store Additional Terms
 
-Statutory warranty rights and mandatory rights relating to digital products remain unaffected.
+If the App is obtained through the Apple App Store, the following additional terms apply.
 
-## 10) Privacy
+The Apple Standard Licensed Application End User License Agreement (EULA) is available at:
 
-Information regarding the processing of personal data, locally stored content, purchase and licensing information, and the involvement of app stores can be found in the separate Privacy Policy for GeometrySketch.
+https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 
-## 11) Support
+In the event of a conflict between these Terms of Use and the Apple Standard EULA, the Apple Standard EULA shall prevail where required by Apple.
 
-For questions or technical issues, please contact:
+Apple is not responsible for:
 
-**geometrysketch@outlook.de**
+- Maintenance or support services
+- Warranty claims
+- Product liability claims
+- Claims relating to legal or intellectual property infringements
 
-Where possible, please provide the platform used, the application version, and a description of the issue. Please submit only information necessary for processing your request and avoid including confidential personal information.
+Apple and its subsidiaries are third-party beneficiaries of these Terms of Use and may enforce them against the user where applicable.
 
-No specific response time or support level is owed unless expressly agreed. Statutory obligations remain unaffected.
+---
 
-## 12) Changes to These Terms of Use
+## 13. Changes to These Terms
 
-These Terms of Use may be updated for future contracts.
+The App operator may update these Terms of Use for legitimate reasons, including:
 
-Changes to existing contracts do not become effective solely through publication of a revised version. Such changes require a valid contractual or legal basis and compliance with any applicable information and consent requirements.
+- Changes in applicable laws
+- Technical developments
+- Changes to or expansion of the App's services
 
-The version date at the beginning of this document identifies the current version.
+The current version will be made available within the App or through the official GeometrySketch website.
 
-## 13) Final Provisions
+---
 
-Should any provision of these Terms of Use be or become invalid, the applicable statutory provisions shall apply. The remaining provisions shall remain effective to the extent permitted 
+## 14. Governing Law
+
+These Terms of Use shall be governed by the laws of the Federal Republic of Germany, excluding the United Nations Convention on Contracts for the International Sale of Goods (CISG).
+
+If mandatory consumer protection laws of the user's country of residence provide greater protection, those provisions remain unaffected.
+
+---
+
+## 15. Severability Clause
+
+If any provision of these Terms of Use is found to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+
+---
+
+© 2026 Hubert Heinz. All rights reserved.
