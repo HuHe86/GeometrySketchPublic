@@ -4,7 +4,7 @@
 
 ## Version 0.0.5 (in development)
 - Clipboard improvements
-- Bucket tool added for filling closed areas
+- Bucket tool for filling closed areas
 
 ## Version 0.0.4
 - Added English as a UI language
