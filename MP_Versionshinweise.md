@@ -4,7 +4,7 @@
 
 ## Version 0.0.5 (in Entwicklung)
 - Verbesserungen der Zwischenablage
-- Eimerwerkzeug zum Ausfüllen geschlossener Flächen zugefügt
+- Eimerwerkzeug zum Ausfüllen geschlossener Flächen
 
 ## Version 0.0.4
 - Englisch als Sprache für die Benutzeroberfläche hinzugefügt
