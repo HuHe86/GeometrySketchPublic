@@ -2,7 +2,7 @@
 
 *Aktualisiert am 21.10.2026*
 
-## Version 0.0.6 (Roadmap)
+## Roadmap
 - Durchstreichen zum Löschen
 - Ende halten für Formen und gerade Linien
 - Verbesserung PalmRejection
