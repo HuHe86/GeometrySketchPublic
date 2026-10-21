@@ -1,6 +1,11 @@
 # Versionshinweise
 
-*Aktualisiert am 16.10.2026*
+*Aktualisiert am 21.10.2026*
+
+## Version 0.0.6 (Roadmap)
+- Durchstreichen zum Löschen
+- Ende halten für Formen und gerade Linien
+- Verbesserung PalmRejection
 
 ## Version 0.0.5 (in Entwicklung)
 - Verbesserungen der Zwischenablage
