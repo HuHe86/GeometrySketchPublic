@@ -2,7 +2,7 @@
 
 *Updated on 10/21/2026*
 
-## Version 0.0.6 (Roadmap)
+## Roadmap
 - Strike through to delete
 - Hold at the end for shapes and straight lines
 - Palm rejection improvement
