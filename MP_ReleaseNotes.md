@@ -1,6 +1,11 @@
 # Release Notes
 
-*Updated on 10/16/2026*
+*Updated on 10/21/2026*
+
+## Version 0.0.6 (Roadmap)
+- Strike through to delete
+- Hold at the end for shapes and straight lines
+- Palm rejection improvement
 
 ## Version 0.0.5 (in development)
 - Clipboard improvements
