@@ -13,7 +13,7 @@
 - optische Verbesserungen bei der Farbauswahl
 
 ## Version 0.0.6 (Windows only)
--Fehler beim In-App-Kauf behoben
+- Fehler beim In-App-Kauf behoben
 
 ## Version 0.0.5
 - Verbesserungen der Zwischenablage
