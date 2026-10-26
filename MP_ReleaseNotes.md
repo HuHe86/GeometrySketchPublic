@@ -1,13 +1,21 @@
 # Release Notes
 
-*Updated on 10/21/2026*
+*Updated on 10/26/2026*
 
 ## Roadmap
 - Strike through to delete
 - Hold at the end for shapes and straight lines
 - Palm rejection improvement
 
-## Version 0.0.5 (in development)
+## Version 0.0.7 (in development)
+- Added backup function
+- Improved bucket tool
+- Visual improvements to the color picker
+
+## Version 0.0.6 (Windows only)
+- Fixed an issue with in-app purchases
+
+## Version 0.0.5
 - Clipboard improvements
 - Bucket tool for filling closed areas
 
