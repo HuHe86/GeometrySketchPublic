@@ -143,24 +143,50 @@ Any further liability is excluded to the extent permitted by applicable law.
 
 ---
 
-## 12. Apple App Store Additional Terms
+## 12. Special Provisions for App Stores
 
-If the App is obtained through the Apple App Store, the following additional terms apply.
+For the distribution of the App through app stores, the following store-specific provisions shall apply in addition to these Terms of Use. To the extent that mandatory provisions of the respective app store provider conflict with these Terms of Use, the mandatory provisions of the respective app store provider shall prevail.
+
+### 12.1 Apple App Store Additional Provisions
+
+If the App is obtained through the Apple App Store, Apple's terms and conditions shall additionally apply.
 
 The Apple Standard Licensed Application End User License Agreement (EULA) is available at:
 
-https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+**[https://www.apple.com/legal/internet-services/itunes/dev/stdeula/](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)**
 
-In the event of a conflict between these Terms of Use and the Apple Standard EULA, the Apple Standard EULA shall prevail where required by Apple.
+In the event of any conflict between these Terms of Use and the Apple Standard EULA, the provisions of the Apple Standard EULA shall prevail to the extent required by Apple.
 
 Apple is not responsible for:
 
-- Maintenance or support services
+- Maintenance and support of the App
 - Warranty claims
 - Product liability claims
-- Claims relating to legal or intellectual property infringements
+- Claims arising from infringement of intellectual property rights
 
-Apple and its subsidiaries are third-party beneficiaries of these Terms of Use and may enforce them against the user where applicable.
+Apple and its subsidiaries are third-party beneficiaries of this agreement and may enforce its provisions accordingly.
+
+### 12.2 Google Play Store
+
+If the App is obtained through the Google Play Store, the applicable Google Play Terms of Service and policies shall additionally apply.
+
+Google LLC and its affiliated companies are not parties to these Terms of Use and assume no responsibility for the App or its content.
+
+The operator of the App is solely responsible for providing the App, its maintenance, support, and the handling of any claims or complaints relating to the App, to the extent required by law.
+
+### 12.3 Microsoft Store
+
+If the App is obtained through the Microsoft Store, the Microsoft Store Terms and the applicable end-user license terms of Microsoft shall additionally apply.
+
+Microsoft Corporation and its affiliated companies are not parties to these Terms of Use and assume no responsibility for the App or its content.
+
+The operator of the App remains solely responsible for the App, support, compliance with applicable laws, and the handling of any claims relating to the App.
+
+### 12.4 Other App Stores
+
+If the App is distributed through other app marketplaces or distribution platforms, the respective terms, conditions, and policies of the relevant platform operator shall additionally apply.
+
+The respective platform operator shall not become a contractual party between the operator and the user through these Terms of Use unless expressly required otherwise.
 
 ---
 
