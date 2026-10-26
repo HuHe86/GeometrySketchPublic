@@ -145,7 +145,11 @@ Soweit gesetzlich zulässig, ist eine weitergehende Haftung ausgeschlossen.
 
 ---
 
-## 12. Apple App Store Zusatzbestimmungen
+## 12. Besondere Bestimmungen für App-Stores
+
+Für den Vertrieb der App über App-Stores gelten ergänzend zu diesen Nutzungsbedingungen die nachfolgenden store-spezifischen Bestimmungen. Soweit zwingende Bestimmungen des jeweiligen App-Store-Anbieters diesen Nutzungsbedingungen widersprechen, gehen die zwingenden Bestimmungen des jeweiligen App-Store-Anbieters vor.
+
+### 12.1 Apple App Store Zusatzbestimmungen
 
 Wird die App über den Apple App Store bezogen, gelten zusätzlich die Bedingungen von Apple.
 
@@ -163,6 +167,28 @@ Apple ist nicht verantwortlich für:
 - Ansprüche wegen Rechtsverletzungen
 
 Apple und seine Tochtergesellschaften gelten als begünstigte Dritte dieser Vereinbarung und können deren Bestimmungen entsprechend durchsetzen.
+
+### 12.2 Google Play Store
+
+Wird die App über den Google Play Store bezogen, gelten ergänzend die Nutzungsbedingungen und Richtlinien von Google für den Google Play Store.
+
+Google LLC und deren verbundene Unternehmen sind nicht Vertragspartei dieser Nutzungsbedingungen und übernehmen keine Verantwortung für die App oder deren Inhalte.
+
+Der Betreiber der App ist allein verantwortlich für die Bereitstellung der App, deren Wartung, Support sowie die Bearbeitung von Ansprüchen oder Beschwerden im Zusammenhang mit der App, soweit gesetzlich vorgeschrieben.
+
+### 12.3 Microsoft Store
+
+Wird die App über den Microsoft Store bezogen, gelten ergänzend die Microsoft Store-Bedingungen sowie die für Endnutzer geltenden Lizenzbestimmungen von Microsoft.
+
+Microsoft Corporation und ihre verbundenen Unternehmen sind nicht Vertragspartei dieser Nutzungsbedingungen und übernehmen keine Verantwortung für die App oder deren Inhalte.
+
+Der Betreiber der App bleibt allein verantwortlich für die App, den Support, die Einhaltung gesetzlicher Vorschriften sowie die Bearbeitung von Ansprüchen im Zusammenhang mit der App.
+
+### 12.4 Sonstige App-Stores
+
+Wird die App über andere App-Marktplätze oder Vertriebsplattformen bereitgestellt, gelten ergänzend die jeweiligen Nutzungsbedingungen und Richtlinien des betreffenden Plattformbetreibers.
+
+Der jeweilige Plattformbetreiber wird durch diese Nutzungsbedingungen nicht Vertragspartner zwischen dem Betreiber und dem Nutzer, sofern nicht ausdrücklich etwas anderes vorgeschrieben ist.
 
 ---
 
