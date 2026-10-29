@@ -1,13 +1,13 @@
 # Versionshinweise
 
-*Aktualisiert am 26.10.2026*
+*Aktualisiert am 29.10.2026*
 
-## Roadmap
+## Roadmap (in Entwicklung)
 - Durchstreichen zum Löschen
 - Ende halten für Formen und gerade Linien
 - Verbesserung PalmRejection
 
-## Version 0.0.7 (in Entwicklung)
+## Version 0.0.7
 - Sicherungsfunktion eingebaut
 - Eimerwerkzeug verbessert
 - optische Verbesserungen bei der Farbauswahl
