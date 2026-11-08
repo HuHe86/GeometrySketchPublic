@@ -7,7 +7,7 @@
 - Ende halten für Formen und gerade Linien
 - Verbesserung PalmRejection
 
-## Version 0.0.8 (iOS und MacOS only)
+## Version 0.0.8 (iOS und macOS only)
 - Fehler beim PDF-Import behoben
 
 ## Version 0.0.7
