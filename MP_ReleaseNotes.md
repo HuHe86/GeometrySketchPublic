@@ -1,11 +1,14 @@
 # Release Notes
 
-*Updated on 10/29/2026*
+*Updated on 11/08/2026*
 
 ## Roadmap (in development)
 - Strike through to delete
 - Hold at the end for shapes and straight lines
 - Palm rejection improvement
+
+## Version 0.0.8 (iOS and macOS only)
+- PDF-import issue fixed
 
 ## Version 0.0.7
 - Added backup function
