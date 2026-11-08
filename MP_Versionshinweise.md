@@ -1,11 +1,14 @@
 # Versionshinweise
 
-*Aktualisiert am 29.10.2026*
+*Aktualisiert am 08.11.2026*
 
 ## Roadmap (in Entwicklung)
 - Durchstreichen zum Löschen
 - Ende halten für Formen und gerade Linien
 - Verbesserung PalmRejection
+
+## Version 0.0.8 (iOS und MacOS only)
+- Fehler beim PDF-Import behoben
 
 ## Version 0.0.7
 - Sicherungsfunktion eingebaut
