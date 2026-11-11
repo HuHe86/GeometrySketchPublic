@@ -1,11 +1,18 @@
 # Versionshinweise
 
-*Aktualisiert am 08.11.2026*
+*Aktualisiert am 11.11.2026*
 
-## Roadmap (in Entwicklung)
-- Durchstreichen zum Löschen
-- Ende halten für Formen und gerade Linien
+## Roadmap
 - Verbesserung PalmRejection
+- Präsentationsmodus
+- Kollaboratives Zusammenarbeiten
+
+## Version 0.0.9 (in Entwicklung)
+- Durchstreichen zum Löschen- 
+- Ende halten für Formen und gerade Linien
+- Verbesserung der Farbauswahl (RGB und HEX-Werte können gezielt gewählt werden)
+- Verbesserungen des Lassotools (Auswahl eines Strichs durch Klicken, drehen und skalieren ausgewählter Striche)
+- Fehlerbehebungen
 
 ## Version 0.0.8 (iOS und macOS only)
 - Fehler beim PDF-Import behoben
