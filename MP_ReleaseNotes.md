@@ -6,6 +6,8 @@
 - Improvement of palm rejection
 - Presentation mode
 - Collaborative working
+- Full-screen mode (without ribbon)
+- Mini toolbar for element mode, move mode, etc.
 
 ## Version 0.0.9 (in development)
 - Strike through to delete -
