@@ -2,10 +2,10 @@
 
 *Updated on 11/11/2026*
 
-## Roadmap (in development)
-- Strike through to delete
-- Hold at the end for shapes and straight lines
-- Palm rejection improvement
+## Roadmap
+- Improvement of palm rejection
+- Presentation mode
+- Collaborative working
 
 ## Version 0.0.9 (in development)
 - Strike through to delete -
