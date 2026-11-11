@@ -6,6 +6,8 @@
 - Verbesserung PalmRejection
 - Präsentationsmodus
 - Kollaboratives Zusammenarbeiten
+- Vollbildmodus (ohne Menüband)
+- Microssymbolleiste für Elementmodus, Verschiebemodus usw.
 
 ## Version 0.0.9 (in Entwicklung)
 - Durchstreichen zum Löschen- 
