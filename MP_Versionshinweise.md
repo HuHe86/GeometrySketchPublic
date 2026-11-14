@@ -1,6 +1,6 @@
 # Versionshinweise
 
-*Aktualisiert am 11.11.2026*
+*Aktualisiert am 14.11.2026*
 
 ## Roadmap
 - Verbesserung PalmRejection
