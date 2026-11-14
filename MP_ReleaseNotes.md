@@ -10,10 +10,10 @@
 - Mini toolbar for element mode, move mode, etc.
 
 ## Version 0.0.9 (in development)
-- Strike through to delete -
-- Hold to draw shapes and straight lines
-- Improved color selection (RGB and HEX values can be chosen precisely)
-- Improvements to the lasso tool (select a stroke by clicking, rotate and scale selected strokes)
+- Strikethrough for deletion
+- Hold end of stroke for shapes and straight lines
+- Improved color selection (RGB and HEX values ​​can be selected selectively)
+- Improvements to the Lasso tool (select a stroke by clicking, rotate and scale selected strokes)
 - Bug fixes
 
 ## Version 0.0.8 (iOS and macOS only)
