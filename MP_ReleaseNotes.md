@@ -1,6 +1,6 @@
 # Release Notes
 
-*Updated on 11/11/2026*
+*Updated on 11/14/2026*
 
 ## Roadmap
 - Improvement of palm rejection
@@ -9,7 +9,7 @@
 - Full-screen mode (without ribbon)
 - Mini toolbar for element mode, move mode, etc.
 
-## Version 0.0.9 (in development)
+## Version 0.0.9
 - Strikethrough for deletion
 - Hold end of stroke for shapes and straight lines
 - Improved color selection (RGB and HEX values ​​can be selected selectively)
