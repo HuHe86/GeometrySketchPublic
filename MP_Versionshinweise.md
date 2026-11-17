@@ -1,6 +1,6 @@
 # Versionshinweise
 
-*Aktualisiert am 14.11.2026*
+*Aktualisiert am 17.11.2026*
 
 ## Roadmap
 - Verbesserung PalmRejection
@@ -9,7 +9,8 @@
 - Vollbildmodus (ohne Menüband)
 - Microssymbolleiste für Elementmodus, Verschiebemodus usw.
 
-## Version 0.0.9
+
+## Version 0.0.9 und Version 0.0.10
 - Durchstreichen zum Löschen
 - Ende eines Strichs halten für Formen und gerade Linien
 - Verbesserung der Farbauswahl (RGB und HEX-Werte können gezielt gewählt werden)
