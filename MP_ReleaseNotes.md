@@ -9,7 +9,7 @@
 - Full-screen mode (without ribbon)
 - Mini toolbar for element mode, move mode, etc.
 
-## Version 0.0.9 and Version 0.0.10
+## Version 0.0.9, Version 0.0.10, Version 0.0.11
 - Strikethrough for deletion
 - Hold end of stroke for shapes and straight lines
 - Improved color selection (RGB and HEX values ​​can be selected selectively)
