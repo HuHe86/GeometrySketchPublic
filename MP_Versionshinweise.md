@@ -10,7 +10,7 @@
 - Microssymbolleiste für Elementmodus, Verschiebemodus usw.
 
 
-## Version 0.0.9, Version 0.0.10 und Version 0.0.11
+## Version 0.0.9, Version 0.0.10, Version 0.0.11
 - Durchstreichen zum Löschen
 - Ende eines Strichs halten für Formen und gerade Linien
 - Verbesserung der Farbauswahl (RGB und HEX-Werte können gezielt gewählt werden)
